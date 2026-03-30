@@ -1,0 +1,27 @@
+item_id,name,priority,status,estimated_hours,api_available,source_url,estimated_records,notes
+W1,FFIEC UBPR,P1,Pending,8,Yes,https://cdr.ffiec.gov/public/PWS/UbprReports.aspx,87000,Uniform Bank Performance Reports
+W2,OCC Quarterly Trading Report,P1,Pending,6,No,https://www.occ.gov/publications-and-resources/publications/quarterly-report-on-bank-trading/,320,Trading revenue and derivatives
+W3,Fed Y-9C Reports,P1,Pending,10,Yes,https://www.ffiec.gov/npw/,10000,Holding company financials
+W4,Fed SR Letters,P1,Pending,8,No,https://www.federalreserve.gov/supervisionreg/srletters.htm,200,Supervisory guidance
+W5,FHFA House Price Index,P1,Pending,4,Yes,https://www.fhfa.gov/data,10000,Regional house prices for stress testing
+W6,FSB G-SIB Methodology,P2,Pending,6,No,https://www.fsb.org/work-of-the-fsb/policy-development/addressing-sifis/,1450,G-SIB indicator scores
+W7,Basel III Monitoring,P2,Pending,8,No,https://www.bis.org/bcbs/qis/,20,BIS implementation reports
+W8,FDIC QBP Expanded,P2,Pending,4,Yes,https://www.fdic.gov/analysis/quarterly-banking-profile/,4000,Full historical time series
+W9,Fed Z.1 Financial Accounts,P2,Pending,6,Yes,https://www.federalreserve.gov/releases/z1/,16000,Flow of funds banking sector
+W10,NCUA Credit Union Data,P2,Pending,8,Yes,https://www.ncua.gov/analysis/cuso-economic-data,94000,Credit union comparison
+W11,FDIC Enforcement Actions,P3,Pending,12,Yes,https://orders.fdic.gov/s/,1000,Consent orders and penalties
+W12,OCC Enforcement Actions,P3,Pending,10,No,https://www.occ.gov/topics/laws-and-regulations/enforcement-actions/,800,National bank enforcement
+W13,Fed Enforcement Actions,P3,Pending,10,No,https://www.federalreserve.gov/supervisionreg/enforcement-actions.htm,600,BHC enforcement
+W14,CFPB Enforcement Actions,P3,Pending,6,Yes,https://www.consumerfinance.gov/enforcement/actions/,400,Consumer protection actions
+W15,SEC Bank Enforcement,P3,Pending,8,Partial,https://www.sec.gov/litigation/litreleases.htm,300,Securities violations
+W16,EBA Pillar 3 Disclosures,P4,Pending,10,Yes,https://www.eba.europa.eu/risk-analysis-and-data/pillar-3-disclosures,1000,EU bank risk disclosures
+W17,ECB Supervision Reports,P4,Pending,6,No,https://www.bankingsupervision.europa.eu/press/publications/,10,SSM annual reports
+W18,BoE Financial Stability,P4,Pending,8,Partial,https://www.bankofengland.co.uk/financial-stability-report,20,UK systemic risk reports
+W19,APRA Insight Publications,P4,Pending,6,No,https://www.apra.gov.au/publications,50,Australian supervisory views
+W20,BIS Basel Publications,P4,Pending,8,No,https://www.bis.org/bcbs/publications.htm,500,Basel Committee standards
+W21,DTCC Trade Repository,P5,Pending,10,Yes,https://pddata.dtcc.com/gtr/,2600,Derivatives volumes
+W22,Fed Repo/RRP Data,P5,Pending,6,Yes,https://www.newyorkfed.org/markets/desk-operations,2500,Daily repo operations
+W23,Treasury TIC Data,P5,Pending,8,Yes,https://home.treasury.gov/data/treasury-international-capital-tic-system,12000,Cross-border banking
+W24,SIFMA Fixed Income,P5,Pending,6,No,https://www.sifma.org/resources/research/,800,Bank debt issuance
+W25,ICE BofA Credit Indices,P5,Pending,4,Yes,https://fred.stlouisfed.org/categories/32413,50000,Credit spreads via FRED
+

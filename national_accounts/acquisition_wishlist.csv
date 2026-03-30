@@ -1,0 +1,23 @@
+Index,Author_Last,Author_First,Source,Title,Year,URL,Priority,Series_Covered,Status,Notes
+W001,Ayres,Leonard P.,Cleveland Trust,"Turning Points in Business Cycles",1939,https://archive.org/search?query=ayres+turning+points+business+cycles,CRITICAL,"S004, S005, S006",USER_SCANNING,User scanning physical copy - pre-NBER business cycle chronology
+W002,Warren,George F.,Cornell,"Prices (1720-1932)",1933,https://archive.org/search?query=warren+pearson+prices,CRITICAL,"S010, S011",USER_SCANNING,User scanning physical copy - historical US wholesale prices
+W003,Kuznets,Simon,NBER,"National Product Since 1869",1946,https://www.nber.org/books-and-chapters/national-product-1869,CRITICAL,S003,HAVE_PDF,Acquired 2026-01-08 from wishlist inputs
+W004,Kuznets,Simon,NBER,"Capital in the American Economy: Its Formation and Financing",1961,https://www.nber.org/books-and-chapters/capital-american-economy-its-formation-and-financing,CRITICAL,S002,HAVE_PDF,Acquired 2026-01-08 from wishlist inputs
+W005,Fed,Various,Federal Reserve,"Industrial Production G.17 Methodology",2024,https://www.federalreserve.gov/releases/g17/about.htm,HIGH,"S001,HAVE_PDF,Acquired 2026-01-08 from wishlist inputs
+,Web page - save as PDF using browser print function
+W006,Officer,Lawrence H.,MeasuringWorth,"US GDP Construction Workbook",2024,https://www.measuringworth.com/datasets/usgdp/,HIGH,S003,HAVE_PDF,Acquired 2026-01-08 from wishlist inputs
+W007,Officer,Lawrence H.,MeasuringWorth,"US CPI Construction Methodology",2024,https://www.measuringworth.com/datasets/uscpi/,MEDIUM,S010,NEEDED,Historical CPI construction methodology
+W008,Duménil,Gérard,Various,"The Economics of the Profit Rate",1993,Academic library,HIGH,Multiple Ch6,HAVE_PDF,Acquired 2026-01-08 from wishlist inputs
+W009,Gillman,Joseph M.,NBER,"The Falling Rate of Profit",1957,Academic library,MEDIUM,Multiple,HAVE_PDF,Acquired 2026-01-08 from wishlist inputs
+W010,Carter,Susan B.,Cambridge,"Historical Statistics of the US: Millennial Edition",2006,https://hsus.cambridge.org/,MEDIUM,All,MISSING,Cambridge subscription required - comprehensive historical reference
+W011,Various,Various,BEA,"SCB 2023 Comprehensive Revision Article",2023,https://apps.bea.gov/scb/2023/10-october/1023-nipa-update.htm,MEDIUM,All NIPA,HAVE_PDF,Acquired 2026-01-08 from wishlist inputs
+W012,Various,Various,BLS,"BLS Handbook Complete (remaining chapters)",2024,https://www.bls.gov/opub/hom/,LOW,Multiple,HAVE_PDF,Acquired 2026-01-08 from wishlist inputs
+W013,Various,Various,OECD,"OECD Measuring Productivity Manual",2001,https://www.oecd.org/sdd/productivity-stats/,MEDIUM,International,HAVE_PDF,Acquired 2026-01-08 from wishlist inputs
+W014,Various,Various,OECD,"OECD Measuring Capital Manual",2009,https://www.oecd.org/sdd/productivity-stats/,MEDIUM,"S033,HAVE_PDF,Acquired 2026-01-08 from wishlist inputs
+,OECD website returning 403 errors - try alternative access
+W015,Friedman,Milton,Princeton,"A Monetary History of the United States 1867-1960",1963,Academic library,LOW,S051,NEEDED,Monetary aggregates and financial crises context
+W016,Homer,Sidney,Wiley,"A History of Interest Rates (4th edition)",2005,Academic library,LOW,"S051,HAVE_PDF,Acquired 2026-01-08 from wishlist inputs
+,Long-run interest rate data context
+W017,Fabricant,Solomon,NBER,"Output of Manufacturing Industries 1899-1937",1940,https://www.nber.org/books-and-chapters/output-manufacturing-industries-1899-1937,LOW,S001,HAVE_PDF,Acquired 2026-01-08 from wishlist inputs
+W018,Shaw,William Howard,NBER,"Value of Commodity Output Since 1869",1947,https://www.nber.org/books-and-chapters/value-commodity-output-1869,LOW,S003,HAVE_PDF,Acquired 2026-01-08 from wishlist inputs
+W019,Creamer,Daniel,NBER,"Capital and Output Trends in Manufacturing 1880-1948",1954,https://www.nber.org/books-and-chapters/capital-and-output-trends-manufacturing-industries-1880-1948,LOW,S002,HAVE_PDF,Acquired 2026-01-08 from wishlist inputs

@@ -1,0 +1,28 @@
+item_id,name,priority,status,estimated_hours,api_available,source_url,notes
+1,FDIC Problem Bank List Indicators,P1,Pending,5,Partial,https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/,Derive from existing Call Report data
+2,Fed CCAR/DFAST Scenario API,P1,Pending,7,No,https://www.federalreserve.gov/supervisionreg/stress-tests-capital-planning.htm,PDF extraction required - use HDARP
+3,OECD Banking Statistics,P1,Blocked,5,No,https://stats.oecd.org/,OECD SDMX API returning 404 errors
+4,World Bank GFDD,P1,Complete,5,Yes,https://www.worldbank.org/en/publication/gfdr/data/global-financial-development-database,11636 records - 20 indicators for 30 countries
+5,OpenFIGI/Bloomberg Symbology,P1,Complete,4,Yes,https://www.openfigi.com/api,52 bank tickers mapped to FIGI identifiers
+6,FDIC ResearchConnect,P2,Pending,10,No,https://www.fdic.gov/resources/data-tools/research/,Requires academic registration
+7,SEC 13F Holdings,P2,Blocked,12,Yes,https://www.sec.gov/cgi-bin/browse-edgar?type=13F,SEC EDGAR index endpoints returning 404 - needs URL format fix
+8,Fed NIC Structure Data,P2,Blocked,10,No,https://www.ffiec.gov/npw/,FFIEC bulk download requires browser session (403 Forbidden)
+9,CDS Spreads,P2,Not Started,30,Commercial,Various,Evaluate free alternatives first
+10,S&P Global Market Intelligence,P2,Not Started,0,Commercial,https://www.spglobal.com/marketintelligence/,Subscription required
+11,Japanese FSA Banking Data,P3,Not Started,12,No,https://www.fsa.go.jp/en/statistics/,3 G-SIBs coverage
+12,APRA Australian Banking Data,P3,Not Started,10,No,https://www.apra.gov.au/statistics,Big Four banks
+13,HKMA Hong Kong Banking Data,P3,Not Started,10,Partial,https://www.hkma.gov.hk/eng/data-publications-and-research/,Cross-border analysis
+14,Swiss FINMA Banking Data,P3,Not Started,8,No,https://www.finma.ch/en/finma-public/financial-market-statistics/,UBS G-SIB + CS case study
+15,MAS Singapore Banking Data,P3,Not Started,7,Yes,https://www.mas.gov.sg/statistics,Good API available
+16,China CBIRC/PBOC Banking Data,P3,Not Started,25,No,http://www.cbirc.gov.cn/en/,Big Four banks - limited English
+17,NBER Banking Crises Database,P4,Complete,5,No,https://www.nber.org/research/data,47 crisis episodes from 1819-2023 curated
+18,Laeven Valencia Crisis Dataset,P4,Complete,4,No,https://www.imf.org/,30 systemic banking crises with fiscal costs
+19,Bankscope/Orbis Historical,P4,Not Started,0,Commercial,https://www.bvdinfo.com/,Check university access
+20,FDIC/OCC Enforcement Actions,P4,Not Started,12,No,https://www.fdic.gov/resources/resolutions/formal-enforcement-actions/,Web scraping required
+21,Fed Discount Window Data,P4,Not Started,5,Partial,https://www.federalreserve.gov/monetarypolicy/discountrate.htm,2-year disclosure lag
+22,FHLB Advances Data,P4,Not Started,8,No,https://www.fhlbanks.com/data-resources,Important for SVB analysis
+23,Bloomberg Terminal Data,P5,Aspirational,0,Commercial,,~$24000/year
+24,Refinitiv/LSEG Eikon,P5,Aspirational,0,Commercial,,~$22000/year
+25,Moodys BankFocus,P5,Aspirational,0,Commercial,https://www.bvdinfo.com/,Global bank database
+26,ICE/Markit CDS Pricing,P5,Aspirational,0,Commercial,,Enterprise pricing
+

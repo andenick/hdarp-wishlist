@@ -1,0 +1,181 @@
+Number,Category,Author_Last,Author_First,Title,Link,Status,Priority
+1,Academic,Bernanke,Ben S.,Nonmonetary Effects of the Financial Crisis in the Propagation of the Great Depression (1983),https://www.nber.org/papers/w1054,ACQUIRED,CRITICAL
+2,Academic,Bernanke,Ben S.,"Agency Costs, Net Worth, and Business Fluctuations (1989)",https://www.jstor.org/stable/1804770,ACQUIRED,CRITICAL
+3,Academic,Gorton,Gary,Banking Panics and Business Cycles (1988),https://academic.oup.com/oep/article-abstract/40/4/751/2360960,ACQUIRED,CRITICAL
+4,Academic,Gorton,Gary,Securitized Banking and the Run on Repo (2012),https://www.nber.org/papers/w15223,ACQUIRED,CRITICAL
+5,Academic,Calomiris,Charles,The Origins of Banking Panics: Models Facts and Bank Regulation (1991),https://www.nber.org/chapters/c11484,ACQUIRED,CRITICAL
+6,Academic,Allen,Franklin,Financial Contagion (2000),https://www.jstor.org/stable/10.1086/262109,ACQUIRED,CRITICAL
+7,Academic,Rochet,Jean-Charles,Interbank Lending and Systemic Risk (1996),https://www.jstor.org/stable/2077918,ACQUIRED,HIGH
+8,Academic,Kashyap,Anil K.,Cyclical Implications of the Basel II Capital Standards (2004),https://www.chicagofed.org/publications/economic-perspectives/2004/1qepart2,ACQUIRED,HIGH
+9,Academic,Kashyap,Anil K.,Rethinking Capital Regulation (2008),https://www.kansascityfed.org/research/jackson-hole-economic-symposium/,ACQUIRED,CRITICAL
+10,Academic,Admati,Anat R.,The Bankers New Clothes: What is Wrong with Banking (2013),https://press.princeton.edu/books/paperback/9780691162386/the-bankers-new-clothes,ACQUIRED,HIGH
+11,Academic,Hanson,Samuel G.,A Macroprudential Approach to Financial Regulation (2011),https://www.aeaweb.org/articles?id=10.1257/jep.25.1.3,ACQUIRED,CRITICAL
+12,Academic,Barth,James R.,Rethinking Bank Regulation: Till Angels Govern (2006),https://www.cambridge.org/core/books/rethinking-bank-regulation/,ACQUIRED,HIGH
+13,Academic,Barth,James R.,Bank Regulation and Supervision in 180 Countries (2013),https://www.emerald.com/insight/content/doi/10.1108/JFEP-02-2013-0003/full/html,ACQUIRED,HIGH
+14,Academic,Adrian,Tobias,CoVaR (2016),https://www.newyorkfed.org/research/staff_reports/sr348,ACQUIRED,CRITICAL
+15,Academic,Acharya,Viral V.,Measuring Systemic Risk (2017),https://academic.oup.com/rfs/article/30/1/2/2669950,ACQUIRED,CRITICAL
+16,Academic,Brownlees,Christian,SRISK: A Conditional Capital Shortfall Measure (2017),https://academic.oup.com/rfs/article/30/1/48/2669975,ACQUIRED,HIGH
+17,Academic,Huang,Xin,A Framework for Assessing Systemic Risk of Major Financial Institutions (2009),https://www.sciencedirect.com/science/article/abs/pii/S0378426608001854,ACQUIRED,HIGH
+18,Academic,Drehmann,Mathias,Macroeconomic Stress Testing Banks (2009),https://www.bis.org/publ/work258.htm,ACQUIRED,HIGH
+19,Academic,Foglia,Antonella,Stress Testing Credit Risk: A Survey of Authorities Approaches (2009),https://www.ijcb.org/journal/ijcb09q2a7.htm,ACQUIRED,HIGH
+20,Academic,Borio,Claudio,Stress-Testing Macro Stress Testing: Does It Live Up to Expectations (2014),https://www.bis.org/publ/work369.htm,ACQUIRED,MEDIUM
+21,Academic,Schuermann,Til,Stress Testing Banks (2014),https://www.sciencedirect.com/science/article/abs/pii/S0169207013001069,HAVE,HIGH
+22,Academic,Hirtle,Beverly,Supervisory Stress Tests (2015),https://www.annualreviews.org/doi/abs/10.1146/annurev-financial-111914-041844,HAVE,HIGH
+23,Academic,Covas,Francisco,Stress-Testing US Bank Holding Companies (2014),https://www.sciencedirect.com/science/article/abs/pii/S0169207013001070,ACQUIRED,MEDIUM
+24,Academic,Merton,Regulatory Document Library C.,On the Pricing of Corporate Debt (1974),https://www.jstor.org/stable/2978814,ACQUIRED,CRITICAL
+25,Academic,Vasicek,Oldrich,The Distribution of Loan Portfolio Value (2002),https://www.risk.net/,ACQUIRED,HIGH
+26,Academic,Duffie,Darrell,Modeling Term Structures of Defaultable Bonds (1999),https://academic.oup.com/rfs/article-abstract/12/4/687/1577395,ACQUIRED,HIGH
+27,Academic,Gordy,Michael B.,A Risk-Factor Model Foundation for Ratings-Based Bank Capital Rules (2003),https://www.sciencedirect.com/science/article/abs/pii/S1042957303000193,ACQUIRED,HIGH
+28,Academic,Koopman,Siem Jan,Modeling Frailty-Correlated Defaults Using Many Macroeconomic Covariates (2011),https://www.sciencedirect.com/science/article/abs/pii/S0304407610001764,ACQUIRED,MEDIUM
+29,Academic,Schuermann,Til,What Do We Know About Loss Given Default (2004),https://papers.ssrn.com/sol3/papers.cfm?abstract_id=525702,ACQUIRED,HIGH
+30,Academic,Altman,Edward I.,Default Recovery Rates in Credit Risk Modelling (2004),https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0391-5026.2004.00129.x,ACQUIRED,MEDIUM
+31,Academic,Acharya,Viral V.,Does Industry-wide Distress Affect Defaulted Firms (2007),https://www.sciencedirect.com/science/article/abs/pii/S0304405X06002030,ACQUIRED,MEDIUM
+32,Academic,Borio,Claudio,Towards a Macroprudential Framework for Financial Supervision (2003),https://www.bis.org/publ/work128.htm,ACQUIRED,CRITICAL
+33,Academic,Brunnermeier,Markus K.,The Fundamental Principles of Financial Regulation (2009),https://www.princeton.edu/~markus/research/papers/Geneva11.pdf,ACQUIRED,CRITICAL
+34,Academic,Galati,Gabriele,Macroprudential Policy - A Literature Review (2013),https://www.bis.org/publ/work337.htm,ACQUIRED,MEDIUM
+35,Academic,Claessens,Stijn,An Overview of Macroprudential Policy Tools (2015),https://www.annualreviews.org/doi/abs/10.1146/annurev-financial-111914-041807,ACQUIRED,MEDIUM
+36,Academic,Drehmann,Mathias,Anchoring Countercyclical Capital Buffers (2011),https://www.ijcb.org/journal/ijcb11q4a1.htm,ACQUIRED,HIGH
+37,Academic,Jimenez,Gabriel,Macroprudential Policy Countercyclical Bank Capital Buffers and Credit Supply (2017),https://www.journals.uchicago.edu/doi/abs/10.1086/694289,ACQUIRED,HIGH
+38,Academic,Repullo,Rafael,The Procyclical Effects of Bank Capital Regulation (2013),https://academic.oup.com/rfs/article-abstract/26/2/452/1580757,ACQUIRED,MEDIUM
+39,Academic,Behn,Markus,Procyclical Capital Regulation and Lending (2016),https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12368,ACQUIRED,MEDIUM
+40,Academic,Brunnermeier,Markus K.,Market Liquidity and Funding Liquidity (2009),https://academic.oup.com/rfs/article-abstract/22/6/2201/1589587,ACQUIRED,HIGH
+41,Academic,Krishnamurthy,Arvind,Amplification Mechanisms in Liquidity Crises (2010),https://www.aeaweb.org/articles?id=10.1257/mac.2.3.1,ACQUIRED,MEDIUM
+42,Academic,Acharya,Viral V.,Leverage Moral Hazard and Liquidity (2011),https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2011.01662.x,ACQUIRED,MEDIUM
+43,Academic,Perotti,Enrico,A Pigovian Approach to Liquidity Regulation (2011),https://www.ijcb.org/journal/ijcb11q4a2.htm,ACQUIRED,MEDIUM
+44,Academic,Bai,Jennie,Measuring Liquidity Mismatch in the Banking Sector (2018),https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12616,ACQUIRED,MEDIUM
+45,Academic,Derman,Emanuel,Model Risk (1996),https://emanuelderman.com/writing/,ACQUIRED,MEDIUM
+46,Academic,Cont,Rama,Model Uncertainty and Its Impact on Derivative Pricing (2006),https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9965.2006.00281.x,ACQUIRED,MEDIUM
+47,Academic,Kerkhof,Jeroen,Model Risk and Capital Reserves (2010),https://www.sciencedirect.com/science/article/abs/pii/S0378426609003082,ACQUIRED,LOW
+48,Academic,Glasserman,Paul,Robust Risk Measurement and Model Risk (2014),https://www.tandfonline.com/doi/abs/10.1080/14697688.2013.822989,ACQUIRED,LOW
+49,Academic,Stern,Gary H.,Too Big to Fail: The Hazards of Bank Bailouts (2004),https://www.brookings.edu/book/too-big-to-fail/,ACQUIRED,HIGH
+50,Academic,Huser,Anne-Caroline,Too Interconnected to Fail: Interbank Networks Survey (2015),https://jntf.pm-research.com/content/1/1/5,ACQUIRED,MEDIUM
+51,Academic,Acharya,Viral V.,Market Failures and Regulatory Failures (2011),https://www.adb.org/publications/market-failures-and-regulatory-failures,ACQUIRED,MEDIUM
+52,Academic,Avgouleas,Emilios,Bank Resolution Plans as a Catalyst for Global Financial Reform (2013),https://www.sciencedirect.com/science/article/abs/pii/S1572308912000617,ACQUIRED,MEDIUM
+53,Academic,Battiston,Stefano,A Climate Stress-Test of the Financial System (2017),https://www.nature.com/articles/nclimate3255,ACQUIRED,HIGH
+54,Academic,Dietz,Simon,Climate Value at Risk of Global Financial Assets (2016),https://www.nature.com/articles/nclimate2972,ACQUIRED,MEDIUM
+55,Academic,Kopp,Emanuel,Cyber Risk Market Failures and Financial Stability (2017),https://www.imf.org/en/Publications/WP/Issues/2017/01/30/,ACQUIRED,MEDIUM
+56,Academic,Acharya,Viral V.,Lending Implications of US Bank Stress Tests (2018),https://www.sciencedirect.com/science/article/abs/pii/S1042957316300523,ACQUIRED,MEDIUM
+57,Academic,Flannery,Mark,Evaluating the Information in the Federal Reserve Stress Tests (2017),https://www.sciencedirect.com/science/article/abs/pii/S1042957316300535,HAVE,MEDIUM
+58,Academic,Goldstein,Itay,Should Banks Stress Test Results Be Disclosed (2014),https://www.nowpublishers.com/article/Details/FIN-055,ACQUIRED,MEDIUM
+59,Academic,Cornett,Marcia Millon,Liquidity Risk Management and Credit Supply in the Financial Crisis (2011),https://www.sciencedirect.com/science/article/abs/pii/S0304405X11000420,ACQUIRED,MEDIUM
+60,Academic,Claessens,Stijn,Macro-Prudential Policies to Mitigate Financial System Vulnerabilities (2013),https://www.sciencedirect.com/science/article/abs/pii/S0261560613000971,ACQUIRED,MEDIUM
+61,Academic,Cerutti,Eugenio,The Use and Effectiveness of Macroprudential Policies (2017),https://www.sciencedirect.com/science/article/abs/pii/S1572308916301218,ACQUIRED,MEDIUM
+62,Academic,Calomiris,Charles W.,Is Deposit Insurance Necessary: A Historical Perspective (1990),https://www.jstor.org/stable/2122978,ACQUIRED,HIGH
+63,Academic,Calomiris,Charles W.,Fundamentals Panics and Bank Distress During the Depression (2003),https://www.aeaweb.org/articles?id=10.1257/000282803322655473,ACQUIRED,HIGH
+64,Academic,Richardson,Gary,Categories and Causes of Bank Distress During the Great Depression (2007),https://www.sciencedirect.com/science/article/abs/pii/S0014498307000074,ACQUIRED,MEDIUM
+65,Academic,Friedman,Milton,A Monetary History of the United States 1867-1960 (1963),https://press.princeton.edu/books/paperback/9780691003542/,ACQUIRED,HIGH
+66,Academic,Wicker,Elmus,The Banking Panics of the Great Depression (1996),https://www.cambridge.org/core/books/banking-panics-of-the-great-depression/,ACQUIRED,MEDIUM
+67,Academic,Pozsar,Zoltan,Shadow Banking (2010),https://www.newyorkfed.org/research/staff_reports/sr458,ACQUIRED,HIGH
+68,Academic,Plantin,Guillaume,Shadow Banking and Bank Capital Regulation (2015),https://academic.oup.com/rfs/article-abstract/28/1/146/1569890,ACQUIRED,MEDIUM
+69,Academic,Gai,Prasanna,Contagion in Financial Networks (2010),https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2009.0410,ACQUIRED,MEDIUM
+70,Academic,Acemoglu,Daron,Systemic Risk and Stability in Financial Networks (2015),https://www.aeaweb.org/articles?id=10.1257/aer.20130456,ACQUIRED,HIGH
+71,Academic,Elliott,Matthew,Financial Networks and Contagion (2014),https://www.aeaweb.org/articles?id=10.1257/aer.104.10.3115,ACQUIRED,HIGH
+72,Academic,Bookstaber,Richard,An Agent-Based Model for Financial Vulnerability (2018),https://link.springer.com/article/10.1007/s11403-017-0208-6,ACQUIRED,MEDIUM
+73,Academic,Farmer,J. Doyne,The Economy Needs Agent-Based Modelling (2009),https://www.nature.com/articles/460685a,ACQUIRED,MEDIUM
+74,Academic,Demirguc-Kunt,Asli,Does Deposit Insurance Increase Banking System Stability (2002),https://www.sciencedirect.com/science/article/abs/pii/S0304393202001713,ACQUIRED,MEDIUM
+75,Academic,Keeley,Michael C.,Deposit Insurance Risk and Market Power in Banking (1990),https://www.aeaweb.org/articles?id=10.1257/aer.80.5.1183,ACQUIRED,MEDIUM
+76,Academic,Allen,Franklin,Competition and Financial Stability (2004),https://www.jstor.org/stable/3839024,ACQUIRED,HIGH
+77,Academic,Boyd,John H.,The Theory of Bank Risk Taking and Competition Revisited (2005),https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2005.00763.x,ACQUIRED,MEDIUM
+78,Academic,Acharya,Viral V.,Securitization Without Risk Transfer (2013),https://www.sciencedirect.com/science/article/abs/pii/S0304405X13000536,ACQUIRED,MEDIUM
+79,Academic,Ongena,Steven,When the Cats Away the Mice Will Play (2013),https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12052,ACQUIRED,MEDIUM
+80,Academic,Kaminsky,Graciela L.,Leading Indicators of Currency Crises (1998),https://www.jstor.org/stable/3867328,ACQUIRED,MEDIUM
+81,Academic,Borio,Claudio,Asset Prices Financial and Monetary Stability (2002),https://www.bis.org/publ/work114.htm,ACQUIRED,HIGH
+82,Academic,Kashyap,Anil K.,What Do a Million Observations on Banks Say About Monetary Policy (2000),https://www.aeaweb.org/articles?id=10.1257/aer.90.3.407,ACQUIRED,HIGH
+83,Academic,Peek,Joe,Collateral Damage: Effects of the Japanese Bank Crisis on Real Activity (2000),https://www.aeaweb.org/articles?id=10.1257/aer.90.1.30,ACQUIRED,MEDIUM
+84,Academic,Bernanke,Ben S.,The Financial Accelerator in a Quantitative Business Cycle Framework (1999),https://www.sciencedirect.com/science/article/abs/pii/S1574004899100348,ACQUIRED,HIGH
+85,Academic,Kiyotaki,Nobuhiro,Credit Cycles (1997),https://www.journals.uchicago.edu/doi/abs/10.1086/262072,ACQUIRED,HIGH
+86,Academic,Diamond,Douglas W.,Bank Runs Deposit Insurance and Liquidity (1983),https://www.jstor.org/stable/1837095,HAVE,CRITICAL
+87,Regulatory,Basel Committee,,BCBS 155 Principles for Sound Stress Testing Practices (2009),https://www.bis.org/publ/bcbs155.htm,ACQUIRED,CRITICAL
+88,Regulatory,Basel Committee,,BCBS 189 Basel III: A Global Regulatory Framework (2011),https://www.bis.org/publ/bcbs189.htm,ACQUIRED,CRITICAL
+89,Regulatory,Basel Committee,,BCBS 239 Principles for Effective Risk Data Aggregation (2013),https://www.bis.org/publ/bcbs239.htm,ACQUIRED,HIGH
+90,Regulatory,Basel Committee,,BCBS 265 Liquidity Coverage Ratio (2013),https://www.bis.org/publ/bcbs265.htm,ACQUIRED,MEDIUM
+91,Regulatory,Basel Committee,,BCBS 295 Net Stable Funding Ratio (2014),https://www.bis.org/bcbs/publ/d295.htm,HAVE,MEDIUM
+92,Regulatory,Basel Committee,,BCBS 424 Basel III: Finalising Post-Crisis Reforms (2017),https://www.bis.org/bcbs/publ/d424.htm,ACQUIRED,CRITICAL
+93,Regulatory,Basel Committee,,BCBS 450 Stress Testing Principles (2018),https://www.bis.org/bcbs/publ/d450.htm,ACQUIRED,CRITICAL
+94,Regulatory,Basel Committee,,BCBS 502 Climate-Related Financial Risks (2021),https://www.bis.org/bcbs/publ/d502.htm,ACQUIRED,MEDIUM
+95,Regulatory,Basel Committee,,BCBS 518 Climate Risk Management Principles (2022),https://www.bis.org/bcbs/publ/d518.htm,ACQUIRED,MEDIUM
+96,Regulatory,Federal Reserve,,SR 11-7 Guidance on Model Risk Management (2011),https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm,ACQUIRED,CRITICAL
+97,Regulatory,Federal Reserve,,SR 99-18 Assessing Capital Adequacy in Relation to Risk,https://www.federalreserve.gov/boarddocs/srletters/1999/sr9918.htm,CANT FIND,HIGH
+98,Regulatory,Federal Reserve,,SR 12-17 Consolidated Supervision Framework,https://www.federalreserve.gov/supervisionreg/srletters/sr1217.htm,ACQUIRED,MEDIUM
+99,Regulatory,Federal Reserve,,SR 15-18 Federal Reserve Supervisory Assessment of Capital Planning,https://www.federalreserve.gov/supervisionreg/srletters/sr1518.htm,ACQUIRED,MEDIUM
+100,Regulatory,Federal Reserve,,DFAST 2014 Methodology and Results,https://www.federalreserve.gov/publications/dfast-2014-methodology-results.htm,ACQUIRED,HIGH
+101,Regulatory,Federal Reserve,,DFAST 2015 Methodology and Results,https://www.federalreserve.gov/publications/dfast-2015-methodology-results.htm,ACQUIRED,HIGH
+102,Regulatory,Federal Reserve,,CCAR 2013 Results,https://www.federalreserve.gov/newsevents/pressreleases/bcreg20130314a.htm,ACQUIRED,HIGH
+103,Regulatory,Federal Reserve,,CCAR 2014 Results,https://www.federalreserve.gov/newsevents/pressreleases/bcreg20140326a.htm,ACQUIRED,HIGH
+104,Regulatory,NY Fed,,Staff Report 348 CoVaR,https://www.newyorkfed.org/research/staff_reports/sr348,ACQUIRED,CRITICAL
+105,Regulatory,NY Fed,,Staff Report 458 Shadow Banking,https://www.newyorkfed.org/research/staff_reports/sr458,ACQUIRED,HIGH
+106,Regulatory,NY Fed,,Staff Report 599 Fire Sales in a Model of Complexity,https://www.newyorkfed.org/research/staff_reports/sr599,ACQUIRED,MEDIUM
+107,Regulatory,NY Fed,,Staff Report 669 Intermediary Balance Sheets,https://www.newyorkfed.org/research/staff_reports/sr669,ACQUIRED,MEDIUM
+108,Regulatory,NY Fed,,Staff Report 773 Measuring Global Financial Market Stresses,https://www.newyorkfed.org/research/staff_reports/sr773,ACQUIRED,MEDIUM
+109,Regulatory,NY Fed,,Staff Report 846 Banking System Stress Testing,https://www.newyorkfed.org/research/staff_reports/sr846,ACQUIRED,MEDIUM
+110,Regulatory,NY Fed,,Staff Report 931 Climate Stress Tests,https://www.newyorkfed.org/research/staff_reports/sr931,ACQUIRED,MEDIUM
+111,Regulatory,IMF,,Global Financial Stability Report April 2008,https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Global-Financial-Stability-Report-April-2008,ACQUIRED,HIGH
+112,Regulatory,IMF,,Global Financial Stability Report October 2008,https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Global-Financial-Stability-Report-October-2008,ACQUIRED,HIGH
+113,Regulatory,IMF,,Global Financial Stability Report April 2009,https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Global-Financial-Stability-Report-April-2009,ACQUIRED,HIGH
+114,Regulatory,IMF,,Global Financial Stability Report October 2009,https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Global-Financial-Stability-Report-October-2009,ACQUIRED,MEDIUM
+115,Regulatory,IMF,,Global Financial Stability Report April 2010,https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Global-Financial-Stability-Report-April-2010,ACQUIRED,MEDIUM
+116,Regulatory,IMF,,WP/09/83 Stress Testing Euro Area Banks,https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Stress-Testing-Euro-Area-Banks-22908,ACQUIRED,MEDIUM
+117,Regulatory,IMF,,WP/11/100 From Bail-out to Bail-in,https://www.imf.org/en/Publications/WP/Issues/2016/12/31/From-Bail-out-to-Bail-in,ACQUIRED,MEDIUM
+118,Regulatory,IMF,,WP/17/31 Cyber Risk Market Failures and Financial Stability,https://www.imf.org/en/Publications/WP/Issues/2017/01/30/Cyber-Risk-Market-Failures-and-Financial-Stability-44606,ACQUIRED,MEDIUM
+119,Regulatory,ECB,,Financial Stability Review May 2008,https://www.ecb.europa.eu/pub/pdf/fsr/financialstabilityreview200806en.pdf,NEEDED,HIGH
+120,Regulatory,ECB,,Financial Stability Review December 2008,https://www.ecb.europa.eu/pub/pdf/fsr/financialstabilityreview200812en.pdf,NEEDED,HIGH
+121,Regulatory,ECB,,Financial Stability Review June 2009,https://www.ecb.europa.eu/pub/pdf/fsr/financialstabilityreview200906en.pdf,NEEDED,MEDIUM
+122,Regulatory,EBA,,2010 Stress Test Methodology (First EU-wide),https://www.eba.europa.eu/regulation-and-policy/supervisory-review-and-evaluation-srep-and-pillar-2/guidelines-on-the-application-of-the-eba-stress-testing-methodology,NEEDED,HIGH
+123,Regulatory,EBA,,2011 Stress Test Results (Full Dataset),https://www.eba.europa.eu/risk-analysis-and-data/eu-wide-stress-testing/2011,HAVE,MEDIUM
+124,Regulatory,EBA,,2014 Asset Quality Review Methodology,https://www.eba.europa.eu/risk-analysis-and-data/eu-wide-stress-testing/2014,HAVE,MEDIUM
+125,Regulatory,EBA,,Guidelines on Stress Testing EBA/GL/2018/04,https://www.eba.europa.eu/regulation-and-policy/supervisory-review-and-evaluation-srep-and-pillar-2/guidelines-on-institutions-stress-testing,NEEDED,MEDIUM
+126,Regulatory,Bank of England,,Financial Stability Report October 2008,https://www.bankofengland.co.uk/financial-stability-report/2008/october-2008,ACQUIRED,HIGH
+127,Regulatory,Bank of England,,Financial Stability Report April 2008,https://www.bankofengland.co.uk/financial-stability-report/2008/april-2008,NEEDED,HIGH
+128,Regulatory,Bank of England,,2014 UK Stress Test Results (First Annual),https://www.bankofengland.co.uk/stress-testing/2014/stress-testing-the-uk-banking-system-2014-results,NEEDED,MEDIUM
+129,Regulatory,Bank of England,,2015 UK Stress Test Methodology,https://www.bankofengland.co.uk/stress-testing/2015,NEEDED,MEDIUM
+130,Regulatory,Bank of England,,2021 Climate Biennial Exploratory Scenario CBES,https://www.bankofengland.co.uk/stress-testing/2021/results-of-the-2021-climate-biennial-exploratory-scenario,NEEDED,MEDIUM
+131,Regulatory,Bank of Japan,,Financial System Report April 2010,https://www.boj.or.jp/en/research/brp/fsr/fsr10a.htm,NEEDED,MEDIUM
+132,Regulatory,Bank of Japan,,Financial System Report October 2010,https://www.boj.or.jp/en/research/brp/fsr/fsr10b.htm,NEEDED,MEDIUM
+133,Regulatory,Bank of Japan,,Financial System Report April 2015 Negative Rates,https://www.boj.or.jp/en/research/brp/fsr/fsr15a.htm,NEEDED,MEDIUM
+134,Regulatory,PBoC,,China Financial Stability Report 2015 (English),https://www.pbc.gov.cn/en/,NEEDED,HIGH
+135,Regulatory,PBoC,,China Financial Stability Report 2020 (English),https://www.pbc.gov.cn/en/,NEEDED,HIGH
+136,Regulatory,FSB,,Key Attributes of Effective Resolution Regimes (2014),https://www.fsb.org/2014/10/key-attributes-of-effective-resolution-regimes-for-financial-institutions-2/,ACQUIRED,HIGH
+137,Regulatory,FSB,,TLAC Term Sheet (2015),https://www.fsb.org/2015/11/total-loss-absorbing-capacity-tlac-principles-and-term-sheet/,ACQUIRED,HIGH
+138,Regulatory,FSB,,Guidance on Resolution Planning (2016),https://www.fsb.org/2016/06/guidance-on-arrangements-to-support-operational-continuity-in-resolution/,NEEDED,MEDIUM
+139,Regulatory,FSB,,Cyber Lexicon (2018),https://www.fsb.org/2018/11/cyber-lexicon/,NEEDED,LOW
+140,Regulatory,FSB,,Climate Risk Roadmap (2021),https://www.fsb.org/2021/07/fsb-roadmap-for-addressing-climate-related-financial-risks/,ACQUIRED,MEDIUM
+141,Regulatory,FSB,,G-SIB List 2021,https://www.fsb.org/2021/11/2021-list-of-global-systemically-important-banks-g-sibs/,ACQUIRED,MEDIUM
+142,Regulatory,FSB,,G-SIB List 2011 (First Official),https://www.fsb.org/2011/11/r_111104bb/,NEEDED,MEDIUM
+143,Regulatory,FSB,,G-SIB List 2012,https://www.fsb.org/2012/11/r_121031ab/,NEEDED,LOW
+144,Regulatory,FDIC,,Quarterly Banking Profile Complete 2008-2015 Series,https://www.fdic.gov/analysis/quarterly-banking-profile/,NEEDED,MEDIUM
+145,Regulatory,FDIC,,Resolutions Handbook,https://www.fdic.gov/resources/resolutions/,NEEDED,MEDIUM
+146,Regulatory,OCC,,Stress Testing Guidance 2012-2014,https://www.occ.gov/topics/supervision-and-examination/capital-markets/index-capital-markets.html,NEEDED,MEDIUM
+147,Regulatory,OCC,,Climate Risk Guidance 2021,https://www.occ.gov/news-issuances/bulletins/2021/bulletin-2021-62.html,NEEDED,MEDIUM
+148,Regulatory,ESRB,,Occasional Paper 1 Countercyclical Capital Buffers,https://www.esrb.europa.eu/pub/html/index.en.html,NEEDED,MEDIUM
+149,Regulatory,ESRB,,Occasional Paper 5 Macroprudential Policy Tools,https://www.esrb.europa.eu/pub/html/index.en.html,NEEDED,MEDIUM
+150,Regulatory,ESRB,,Annual Report 2020,https://www.esrb.europa.eu/pub/pdf/ar/2020/esrb.ar2020~4d90d50b64.en.pdf,NEEDED,LOW
+151,Private,McKinsey,,Global Banking Annual Review 2020,https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review,NEEDED,MEDIUM
+152,Private,McKinsey,,Global Banking Annual Review 2021,https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review-2021,NEEDED,MEDIUM
+153,Private,McKinsey,,Global Banking Annual Review 2022,https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review-2022,NEEDED,MEDIUM
+154,Private,McKinsey,,Global Banking Annual Review 2023,https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review-2023,NEEDED,MEDIUM
+155,Private,Oliver Wyman,,State of the Financial Services Industry 2019,https://www.oliverwyman.com/our-expertise/insights/2019/jan/state-of-financial-services-2019.html,NEEDED,MEDIUM
+156,Private,Oliver Wyman,,State of the Financial Services Industry 2020,https://www.oliverwyman.com/our-expertise/insights/2020/jan/state-of-financial-services-2020.html,NEEDED,MEDIUM
+157,Private,Oliver Wyman,,Bank Stress Testing Best Practices,https://www.oliverwyman.com/our-expertise/insights.html,NEEDED,HIGH
+158,Private,Deloitte,,Global Risk Management Survey,https://www2.deloitte.com/us/en/insights/industry/financial-services/global-risk-management-survey.html,NEEDED,MEDIUM
+159,Private,Deloitte,,Banking Industry Outlook 2024,https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks/banking-industry-outlook.html,NEEDED,MEDIUM
+160,Private,PwC,,Banking and Capital Markets Trends 2024,https://www.pwc.com/gx/en/industries/financial-services/publications.html,NEEDED,MEDIUM
+161,Private,KPMG,,Frontiers in Finance,https://kpmg.com/xx/en/home/insights/2023/03/frontiers-in-finance.html,NEEDED,MEDIUM
+162,Private,EY,,Global Banking Outlook 2024,https://www.ey.com/en_gl/banking-capital-markets,NEEDED,MEDIUM
+163,Private,Moodys Analytics,,Credit Risk Modeling Whitepaper,https://www.moodysanalytics.com/,ACQUIRED,MEDIUM
+164,Private,SP Global,,Bank Credit Risk Methodology,https://www.spglobal.com/ratings/en/products-benefits/products/bank-credit-ratings,NEEDED,MEDIUM
+165,Private,Fitch Ratings,,Bank Rating Criteria,https://www.fitchratings.com/research/banks,NEEDED,MEDIUM
+166,Private,Bank Policy Institute,,Stress Testing Research Papers,https://bpi.com/research/,NEEDED,HIGH
+167,Private,Bank Policy Institute,,Capital and Liquidity Research,https://bpi.com/research/,NEEDED,HIGH
+168,Private,IIF,,Response to Basel III Proposals,https://www.iif.com/Publications/,NEEDED,MEDIUM
+169,Private,IIF,,Stress Testing Survey Annual,https://www.iif.com/Publications/,NEEDED,MEDIUM
+170,Private,IIF,,Climate Risk Report,https://www.iif.com/Publications/,NEEDED,MEDIUM
+171,Private,GARP,,Survey of Stress Testing Practices,https://www.garp.org/risk-intelligence,NEEDED,MEDIUM
+172,Private,GARP,,Risk Intelligence Reports,https://www.garp.org/risk-intelligence,NEEDED,MEDIUM
+173,Private,BlackRock,,Financial Markets Advisory Reports,https://www.blackrock.com/institutions/en-us/solutions/financial-markets-advisory,NEEDED,MEDIUM
+174,Private,Brookings,,Financial Regulation Research,https://www.brookings.edu/topic/financial-regulation/,NEEDED,HIGH
+175,Private,Peterson Institute,,Banking and Financial Services Research,https://www.piie.com/research/topics/financial-services,NEEDED,MEDIUM
+176,Private,NBER,,Financial Systems and Macroprudential Policy Conference Papers,https://www.nber.org/conferences/financial-systems-macroprudential-policy,NEEDED,HIGH
+177,Private,Chicago Booth,,Initiative on Global Markets Research,https://www.chicagobooth.edu/research/igm,NEEDED,MEDIUM
+178,Private,Wharton,,Financial Institutions Center Working Papers,https://fic.wharton.upenn.edu/working-papers/,NEEDED,HIGH
+179,Private,Stanford GSB,,Financial and Risk Management Research,https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sfi,NEEDED,MEDIUM
+180,Private,MIT Sloan,,Laboratory for Financial Engineering Papers,https://lfe.mit.edu/research/,NEEDED,MEDIUM

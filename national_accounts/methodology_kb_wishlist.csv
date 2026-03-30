@@ -1,0 +1,47 @@
+Index,Author_Last,Author_First,Source,Title,Year,URL,Priority,Notes,Status
+W001,Various,Various,BEA,"NIPA Handbook Chapter 15-18 (if they exist)",2024,https://www.bea.gov/resources/methodologies/nipa-handbook,MEDIUM,Check if additional chapters are published,CHECK
+W002,Various,Various,BEA,"SCB 2023 Comprehensive Revision Article",2023,https://apps.bea.gov/scb/2023/10-october/1023-nipa-update.htm,HIGH,HTML page - need to save as PDF,NEEDED
+W003,Various,Various,Fed,"Industrial Production G.17 Historical Documentation",2024,https://www.federalreserve.gov/releases/g17/about.htm,HIGH,Web page with methodology - save as PDF,NEEDED
+W004,Various,Various,Fed,"Flow of Funds Z.1 Methodology Guide",2024,https://www.federalreserve.gov/apps/fof/,MEDIUM,Financial accounts methodology,HAVE_PARTIAL
+W005,Ayres,Leonard P.,Cleveland Trust,"Turning Points in Business Cycles",1939,https://archive.org/search.php?query=ayres%20turning%20points%20business%20cycles,HIGH,User scanning physical copy - business cycle chronology,USER_SCANNING
+W006,Warren,George F.,Cornell,"Prices (1720-1932)",1933,https://archive.org/search.php?query=warren%20pearson%20prices,HIGH,User scanning physical copy - historical US prices,USER_SCANNING
+W007,Kuznets,Simon,NBER,"National Product Since 1869",1946,https://www.nber.org/books-and-chapters/national-product-1869,HIGH,NBER historical national income - may be available,NEEDED
+W008,Kuznets,Simon,NBER,"Capital in the American Economy: Its Formation and Financing",1961,https://www.nber.org/books-and-chapters/capital-american-economy-its-formation-and-financing,HIGH,Capital formation methodology,NEEDED
+W009,Fabricant,Solomon,NBER,"Output of Manufacturing Industries 1899-1937",1940,https://www.nber.org/books-and-chapters/output-manufacturing-industries-1899-1937,MEDIUM,Historical manufacturing output,NEEDED
+W010,Shaw,William Howard,NBER,"Value of Commodity Output Since 1869",1947,https://www.nber.org/books-and-chapters/value-commodity-output-1869,MEDIUM,Historical commodity output,NEEDED
+W011,Creamer,Daniel,NBER,"Capital and Output Trends in Manufacturing Industries 1880-1948",1954,https://www.nber.org/books-and-chapters/capital-and-output-trends-manufacturing-industries-1880-1948,MEDIUM,Manufacturing capital and output,NEEDED
+W012,Various,Various,BLS,"Office of Productivity and Technology (OPT) Complete Handbook",2024,https://www.bls.gov/opub/hom/opt/,HIGH,Web-based - save all sections as PDF,NEEDED
+W013,Various,Various,BLS,"Multifactor Productivity Methodology",2024,https://www.bls.gov/mfp/mprmethods.htm,HIGH,Multifactor productivity construction,NEEDED
+W014,Bolt,Jutta,Maddison Project,"Maddison Project Database 2023 Technical Note",2024,https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2023,HIGH,Latest Maddison methodology update - HAVE 2024 PDF,ACQUIRED
+W015,Officer,Lawrence H.,MeasuringWorth,"What Was the GDP Then? Methodology Paper",2024,https://www.measuringworth.com/datasets/usgdp/,MEDIUM,Historical GDP construction methodology,NEEDED
+W016,Williamson,Samuel H.,MeasuringWorth,"Seven Ways to Compute Relative Value",2024,https://www.measuringworth.com/calculators/uscompare/,LOW,General methodology explanation,NEEDED
+W017,Goldsmith,Raymond W.,NBER,"Financial Intermediaries in the American Economy Since 1900",1958,https://www.nber.org/books-and-chapters/financial-intermediaries-american-economy-1900,MEDIUM,Financial sector methodology,NEEDED
+W018,Various,Various,Census,"Historical Statistics of the United States: Millennial Edition",2006,https://hsus.cambridge.org/,LOW,Subscription required - Cambridge University Press,SUBSCRIPTION
+W019,Shiller,Regulatory Document Library,Yale,"Irrational Exuberance Data Documentation",2024,http://www.econ.yale.edu/~shiller/data.htm,MEDIUM,Stock market data methodology,HAVE_EXCEL
+W020,Various,Various,OECD,"OECD Manual: Measuring Productivity",2001,https://www.oecd.org/sdd/productivity-stats/2352458.pdf,MEDIUM,International productivity measurement - 403 error,BLOCKED
+W021,Various,Various,OECD,"Measuring Capital OECD Manual",2009,https://www.oecd.org/sdd/productivity-stats/43734711.pdf,MEDIUM,Capital measurement methodology - 403 error,BLOCKED
+W022,Various,Various,IMF,"World Economic Outlook Methodology",2024,https://www.imf.org/en/Publications/WEO,LOW,International data methodology,NEEDED
+W023,Denison,Edward F.,Brookings,"Accounting for United States Economic Growth 1929-1969",1974,https://www.brookings.edu/,MEDIUM,Growth accounting methodology,NEEDED
+W024,Jorgenson,Dale,Harvard,"Productivity and U.S. Economic Growth",1987,https://scholar.harvard.edu/jorgenson,MEDIUM,KLEMS productivity methodology,NEEDED
+W025,Various,Various,BEA,"Industry Economic Accounts Methodology",2024,https://www.bea.gov/resources/methodologies/industry-economic-accounts,LOW,Industry-level accounting,NEEDED
+W026,Mitchell,Wesley C.,NBER,"Business Cycles",1913,https://www.nber.org/books-and-chapters/business-cycles,HIGH,Original business cycle methodology - HAVE PDF,ACQUIRED
+W027,Burns,Arthur F.,NBER,"Measuring Business Cycles",1946,https://www.nber.org/books-and-chapters/measuring-business-cycles,HIGH,NBER business cycle dating methodology - HAVE PDF,ACQUIRED
+W028,Kendrick,John W.,NBER,"Productivity Trends in the United States",1961,https://www.nber.org/books-and-chapters/productivity-trends-united-states,HIGH,Productivity measurement methodology - HAVE PDF,ACQUIRED
+W029,Lebergott,Stanley,Various,"Manpower in Economic Growth",1964,https://archive.org/search?query=lebergott+manpower+economic+growth,HIGH,Historical employment data - HAVE PDF,ACQUIRED
+W030,Jastram,Roy,Various,"The Golden Constant",1977,https://archive.org/search?query=jastram+golden+constant,HIGH,Gold and price history - HAVE PDF,ACQUIRED
+W031,Goldsmith,Raymond W.,NBER,"A Study of Saving in the United States Vol I-III",1955-56,https://www.nber.org/books-and-chapters/study-saving-united-states,HIGH,Saving methodology - HAVE Vol II and III PDFs,ACQUIRED
+W032,Goldsmith,Raymond W.,NBER,"National Wealth of the United States in the Postwar Period",1962,https://www.nber.org/books-and-chapters/national-wealth-united-states-postwar-period,HIGH,National wealth methodology - HAVE PDF,ACQUIRED
+W033,Goldsmith,Raymond W.,Yale,"Comparative National Balance Sheets",1985,https://www.jstor.org/stable/j.ctt2jc8jj,MEDIUM,International balance sheets - HAVE PDF,ACQUIRED
+W034,DoC,Various,BEA,"Fixed Reproducible Tangible Wealth 1925-1989",1993,https://www.bea.gov/,HIGH,Fixed assets methodology - HAVE PDF,ACQUIRED
+W035,Ibbotson,Roger G.,Ibbotson Associates,"SBBI Yearbook",2016-2017,https://www.cfainstitute.org/,HIGH,Stock/bond returns methodology - HAVE 2012-2017 PDFs,ACQUIRED
+W036,Stigler,George J.,NBER,"The Behavior of Industrial Prices",1970,https://www.nber.org/books-and-chapters/behavior-industrial-prices,MEDIUM,Industrial price methodology - HAVE PDF,ACQUIRED
+W037,Various,Various,BLS,"CPI Handbook of Methods - All Chapters",2024,https://www.bls.gov/opub/hom/cpi/,MEDIUM,Complete CPI methodology - have Ch17,PARTIAL
+W038,Various,Various,BLS,"PPI Handbook of Methods - All Chapters",2024,https://www.bls.gov/opub/hom/ppi/,MEDIUM,Complete PPI methodology - have Ch14,PARTIAL
+W039,Various,Various,BLS,"Employment Situation (CES) Complete Methodology",2024,https://www.bls.gov/opub/hom/ces/,MEDIUM,Employment survey methodology - have Ch2,PARTIAL
+W040,Various,Various,Fed,"Financial Accounts Guide",2024,https://www.federalreserve.gov/releases/z1/,MEDIUM,Z.1 financial accounts methodology,NEEDED
+W041,Officer,Lawrence H.,MeasuringWorth,"CPI Methodology Paper",2024,https://www.measuringworth.com/datasets/uscpi/,MEDIUM,Historical CPI construction,NEEDED
+W042,Piketty,Thomas,WID,"World Inequality Database Methodology",2024,https://wid.world/methodology/,LOW,Wealth and income distribution methodology,NEEDED
+W043,Feenstra,Regulatory Document Library,Penn World Table,"PWT Methodology Documentation",2024,https://www.rug.nl/ggdc/productivity/pwt/,LOW,International price comparisons,NEEDED
+W044,Reinhart,Carmen,Various,"This Time Is Different Database",2024,https://www.carmenreinhart.com/data,LOW,Financial crises database methodology,NEEDED
+W045,Various,Various,Census,"Annual Survey of Manufactures Methodology",2024,https://www.census.gov/programs-surveys/asm.html,LOW,Manufacturing survey methodology,NEEDED
+

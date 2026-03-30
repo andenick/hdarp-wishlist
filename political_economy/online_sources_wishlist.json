@@ -1,0 +1,129 @@
+{
+  "HIGH_PRIORITY": {
+    "description": "Critical for extending validation beyond 2007",
+    "sources": [
+      {
+        "name": "BEA NIPA Tables (2014-present)",
+        "url": "https://www.bea.gov/iTable/",
+        "tables": [
+          "Table 1.14",
+          "Table 6.5D",
+          "Table 7.4.5"
+        ],
+        "purpose": "Extend S* and V* calculations to present",
+        "data_type": "NIPA",
+        "priority": 1
+      },
+      {
+        "name": "BLS Current Employment Statistics (2014-present)",
+        "url": "https://www.bls.gov/ces/",
+        "purpose": "Production worker ratios for Lp/L extension",
+        "data_type": "Employment",
+        "priority": 1
+      },
+      {
+        "name": "Shaikh (2016) National Accounts Research",
+        "url": "Academic request or book website",
+        "purpose": "Official VCC and rate of profit 1948-2014",
+        "data_type": "Processed estimates",
+        "priority": 1
+      }
+    ]
+  },
+  "MEDIUM_PRIORITY": {
+    "description": "Additional validation sources",
+    "sources": [
+      {
+        "name": "Moseley (1985, 1992, 1997) RRPE Papers",
+        "url": "JSTOR/SAGE access",
+        "purpose": "Alternative methodology comparison",
+        "data_type": "Academic paper data",
+        "priority": 2
+      },
+      {
+        "name": "Khanjian (1988) UMass Dissertation",
+        "url": "ProQuest Dissertations",
+        "purpose": "High-accuracy 1948-1985 estimates (e\u22482.64-2.91)",
+        "data_type": "Dissertation data tables",
+        "priority": 2
+      },
+      {
+        "name": "Dum\u00e9nil & L\u00e9vy NBER Data",
+        "url": "http://www.cepremap.fr/membres/dlevy/",
+        "purpose": "Alternative profit rate series",
+        "data_type": "Processed estimates",
+        "priority": 2
+      }
+    ]
+  },
+  "LOW_PRIORITY": {
+    "description": "International comparisons",
+    "sources": [
+      {
+        "name": "Izumi (1983) Japan Economic Review",
+        "purpose": "Japan 1955-1980 exploitation rates",
+        "data_type": "Academic paper",
+        "priority": 3
+      },
+      {
+        "name": "Tsaliki & Tsoulfidis (1988) Greece data",
+        "purpose": "Greece 1958-1984 comparison",
+        "data_type": "Academic paper",
+        "priority": 3
+      },
+      {
+        "name": "Cronin (2001) New Zealand data",
+        "note": "PDF exists locally but unprocessed",
+        "purpose": "NZ 1972-1995 comparison",
+        "data_type": "PDF needs extraction",
+        "priority": 3
+      }
+    ]
+  },
+  "ALREADY_AVAILABLE": {
+    "description": "Data already extracted or available locally",
+    "sources": [
+      {
+        "name": "Moos DATA.xlsx",
+        "coverage": "1959-2012",
+        "status": "EXTRACTED",
+        "variables": [
+          "NSW1",
+          "NSW2",
+          "Labor Share"
+        ]
+      },
+      {
+        "name": "Book Tables 5.7, 5.8",
+        "coverage": "1948-1989",
+        "status": "EXTRACTED",
+        "variables": [
+          "Lp/L",
+          "e",
+          "S*",
+          "V*"
+        ]
+      },
+      {
+        "name": "Tsoulfidis & Paitaridis 2011",
+        "coverage": "1964-2007",
+        "status": "EXTRACTED",
+        "variables": [
+          "e (exploitation rate)"
+        ]
+      },
+      {
+        "name": "Mohun 2013 processed",
+        "coverage": "1964-2010",
+        "status": "PDF FIGURES ONLY - No data tables",
+        "note": "Paper has figures, not extractable data tables"
+      },
+      {
+        "name": "Tsoulfidis 2019 processed",
+        "coverage": "1964-2014",
+        "status": "METHODOLOGY FOCUS",
+        "note": "VCC focus, exploitation rate in figures only"
+      }
+    ]
+  }
+}
