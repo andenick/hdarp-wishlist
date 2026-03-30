@@ -1,0 +1,407 @@
+Number,Priority,Category,Author,Title,Year,Type,Source_URL,Search_Query,Notes
+1,CRITICAL,Classic Banking Histories,Redlich Fritz,"The Molding of American Banking: Men and Ideas 1781-1910 (2 vols)",1947-51,BOOK,https://scholar.google.com/scholar?q=Redlich+The+Molding+of+American+Banking,Redlich The Molding of American Banking,Out of print; check university libraries
+2,HIGH,Classic Banking Histories,Holdsworth John Thom,The First and Second Banks of the United States,1910,BOOK,https://fraser.stlouisfed.org/,Holdsworth First Second Banks United States,FRASER likely has it
+3,HIGH,Classic Banking Histories,Studenski Paul,Financial History of the United States,1952,BOOK,https://scholar.google.com/,Studenski Financial History United States,Out of print
+4,HIGH,Classic Banking Histories,Myers Margaret,A Financial History of the United States,1970,BOOK,https://scholar.google.com/,Myers Financial History United States,Columbia UP
+5,MEDIUM,Classic Banking Histories,Timberlake Richard,Monetary Policy in the United States: An Intellectual and Institutional History,1993,BOOK,https://scholar.google.com/,Timberlake Monetary Policy United States,UChicago Press
+6,MEDIUM,Classic Banking Histories,Smith Walter Buckingham,Economic Aspects of the Second Bank of the United States,1953,BOOK,https://scholar.google.com/,Smith Economic Aspects Second Bank,Harvard UP; out of print
+7,LOW,Classic Banking Histories,Helderman Leonard,National and State Banks: A Study of Their Origins,1931,BOOK,https://scholar.google.com/,Helderman National State Banks,Rare; interlibrary loan
+8,CRITICAL,Regulatory Agency Histories,Robertson Ross M.,The Comptroller and Bank Supervision: A Historical Appraisal,1968/1995,BOOK,https://www.occ.treas.gov/,Robertson Comptroller Bank Supervision,Check OCC or FRASER
+9,CRITICAL,Regulatory Agency Histories,White Eugene N.,"The Comptroller and the Transformation of American Banking 1960-1990",1992,BOOK,https://fraser.stlouisfed.org/,White Comptroller Transformation Banking,OCC commissioned history
+10,HIGH,Regulatory Agency Histories,Goodhart Charles,"The Basel Committee on Banking Supervision: A History of the Early Years 1974-1997",2011,BOOK,https://www.cambridge.org/,Goodhart Basel Committee History,Cambridge UP
+11,HIGH,Regulatory Agency Histories,Meltzer Allan,"A History of the Federal Reserve Vol 1 (1913-1951)",2003,BOOK,https://press.uchicago.edu/,Meltzer History Federal Reserve Vol 1,UChicago Press
+12,HIGH,Regulatory Agency Histories,Meltzer Allan,"A History of the Federal Reserve Vol 2 (1951-1986)",2009-10,BOOK,https://press.uchicago.edu/,Meltzer History Federal Reserve Vol 2,UChicago Press
+13,HIGH,Regulatory Agency Histories,Silber William,Banking Research: The Triumph of Persistence,2012,BOOK,https://scholar.google.com/,Silber Banking Research Triumph Persistence,Amazon or library
+14,HIGH,Regulatory Agency Histories,Conti-Brown Peter,The Power and Independence of the Federal Reserve,2016,BOOK,https://press.princeton.edu/,Conti-Brown Power Independence Federal Reserve,Princeton UP
+15,HIGH,Regulatory Agency Histories,Federal Reserve,Federal Reserve Board Oral History Project (complete interviews),Various,REPORT,https://www.federalreserve.gov/aboutthefed/oral-histories.htm,Federal Reserve Oral History Project,Free on Fed website
+16,MEDIUM,Regulatory Agency Histories,Warburg Paul,The Federal Reserve System: Its Origin and Growth (2 vols),1930,BOOK,https://fraser.stlouisfed.org/,Warburg Federal Reserve System Origin Growth,FRASER or IA
+17,MEDIUM,Regulatory Agency Histories,Willis H. Parker,The Federal Reserve System,1923,BOOK,https://fraser.stlouisfed.org/,Willis Federal Reserve System,FRASER or IA
+18,MEDIUM,Regulatory Agency Histories,Hackley Howard,Lending Functions of the Federal Reserve Banks,1973,BOOK,https://fraser.stlouisfed.org/,Hackley Lending Functions Federal Reserve,FRASER archive
+19,CRITICAL,Memoirs and Biographies,Bernanke Ben,The Courage to Act,2015,MEMOIR,https://scholar.google.com/,Bernanke Courage to Act,Amazon or library
+20,CRITICAL,Memoirs and Biographies,Bernanke Ben,The Federal Reserve and the Financial Crisis,2013,BOOK,https://press.princeton.edu/,Bernanke Federal Reserve Financial Crisis,Princeton UP
+21,CRITICAL,Memoirs and Biographies,Bernanke Ben,Firefighting: The Financial Crisis and Its Lessons,2019,MEMOIR,https://scholar.google.com/,Bernanke Firefighting Financial Crisis,With Geithner and Paulson
+22,CRITICAL,Memoirs and Biographies,Paulson Henry,On the Brink: Inside the Race to Stop the Collapse,2010,MEMOIR,https://scholar.google.com/,Paulson On the Brink,Amazon or library
+23,HIGH,Memoirs and Biographies,Greenspan Alan,The Age of Turbulence,2007,MEMOIR,https://scholar.google.com/,Greenspan Age of Turbulence,Amazon or library
+24,HIGH,Memoirs and Biographies,Blankfein Lloyd,Streetwise,2025,MEMOIR,https://scholar.google.com/,Blankfein Streetwise,Recently published
+25,HIGH,Memoirs and Biographies,McDonald Duff,Last Man Standing: The Ascent of Jamie Dimon,2009,BOOK,https://scholar.google.com/,McDonald Last Man Standing Jamie Dimon,Amazon or library
+26,HIGH,Memoirs and Biographies,Weill Sandy,Tearing Down the Walls,2006,MEMOIR,https://scholar.google.com/,Weill Tearing Down Walls,Amazon used
+27,HIGH,Memoirs and Biographies,Treaster Joseph,Paul Banking Research: The Making of a Financial Legend,2004,BOOK,https://scholar.google.com/,Treaster Paul Banking Research Financial Legend,Wiley
+28,HIGH,Memoirs and Biographies,Greider William,Secrets of the Temple: How the Federal Reserve Runs the Country,1987,BOOK,https://scholar.google.com/,Greider Secrets Temple Federal Reserve,Classic Fed narrative
+29,HIGH,Memoirs and Biographies,Seidman William,Full Faith and Credit: The Great S&L Debacle,1993,MEMOIR,https://scholar.google.com/,Seidman Full Faith Credit S&L,Amazon used
+30,HIGH,Memoirs and Biographies,Bair Sheila,Bull by the Horns: Fighting to Save Main Street,2012,MEMOIR,https://scholar.google.com/,Bair Bull Horns Save Main Street,Amazon or library
+31,HIGH,Memoirs and Biographies,Barofsky Neil,Bailout: An Inside Account,2012,MEMOIR,https://scholar.google.com/,Barofsky Bailout Inside Account,Amazon or library
+32,HIGH,Memoirs and Biographies,Sorkin Andrew Ross,Too Big to Fail,2009,BOOK,https://scholar.google.com/,Sorkin Too Big to Fail,Updated 2010 edition
+33,MEDIUM,Memoirs and Biographies,Lewis Michael,The Big Short,2010,BOOK,https://scholar.google.com/,Lewis Big Short,Amazon or library
+34,MEDIUM,Memoirs and Biographies,Lewis Michael,Liar's Poker,1989,BOOK,https://scholar.google.com/,Lewis Liar's Poker,Amazon or library
+35,MEDIUM,Memoirs and Biographies,Bremner Regulatory Document Library,Chairman of the Fed: William McChesney Martin Jr.,2004,BOOK,https://scholar.google.com/,Bremner Chairman Fed Martin,Yale UP
+36,MEDIUM,Memoirs and Biographies,Lowenstein Roger,When Genius Failed: Rise and Fall of LTCM,2000,BOOK,https://scholar.google.com/,Lowenstein When Genius Failed LTCM,Amazon or library
+37,MEDIUM,Memoirs and Biographies,Prins Nomi,All the Presidents' Bankers,2014,BOOK,https://scholar.google.com/,Prins All Presidents Bankers,Amazon or library
+38,MEDIUM,Memoirs and Biographies,Mallaby Sebastian,The Man Who Knew: Alan Greenspan,2016,BOOK,https://scholar.google.com/,Mallaby Man Who Knew Greenspan,Penguin
+39,HIGH,Memoirs and Biographies,Tooze Adam,Crashed: How a Decade of Financial Crises Changed the World,2018,BOOK,https://scholar.google.com/,Tooze Crashed Financial Crises,Amazon or library
+40,MEDIUM,Memoirs and Biographies,Greenspan Alan,The Map and the Territory,2013,BOOK,https://scholar.google.com/,Greenspan Map Territory,Amazon or library
+41,MEDIUM,Memoirs and Biographies,Warsh Kevin,Various Fed Governor speeches on stress testing,2006-11,REGULATORY,https://www.federalreserve.gov/newsevents/speeches.htm,Warsh Fed Governor speeches stress testing,Fed speeches archive
+42,HIGH,S&L Crisis,Day Kathleen,"S&L Hell: The People and the Politics Behind the $1 Trillion Scandal",1993,BOOK,https://scholar.google.com/,Day S&L Hell Politics Scandal,Amazon used
+43,HIGH,S&L Crisis,Mayer Martin,The Greatest-Ever Bank Robbery: Collapse of S&L Industry,1990,BOOK,https://scholar.google.com/,Mayer Greatest Bank Robbery S&L,Amazon used
+44,HIGH,S&L Crisis,Black William K.,The Best Way to Rob a Bank Is to Own One,2005,BOOK,https://scholar.google.com/,Black Best Way Rob Bank Own One,UT Press
+45,HIGH,S&L Crisis,White Lawrence J.,The S&L Debacle: Public Policy Lessons,1991,BOOK,https://scholar.google.com/,White S&L Debacle Public Policy,Oxford UP
+46,MEDIUM,S&L Crisis,Kane Edward J.,The S&L Insurance Mess: How Did It Happen?,1989,BOOK,https://scholar.google.com/,Kane S&L Insurance Mess,Urban Institute Press
+47,MEDIUM,S&L Crisis,Eichler Ned,The Thrift Debacle,1989,BOOK,https://scholar.google.com/,Eichler Thrift Debacle,UC Press
+48,MEDIUM,S&L Crisis,Pizzo Stephen,Inside Job: The Looting of America's S&Ls,1989,BOOK,https://scholar.google.com/,Pizzo Inside Job Looting S&Ls,Amazon used
+49,LOW,S&L Crisis,Lowy Martin,High Rollers: Inside the Savings and Loan Debacle,1991,BOOK,https://scholar.google.com/,Lowy High Rollers S&L,Out of print; ILL
+50,LOW,S&L Crisis,Pilzer Paul Z.,Other People's Money: Inside Story of S&L Mess,1989,BOOK,https://scholar.google.com/,Pilzer Other People's Money S&L,Amazon used
+51,HIGH,2008 Financial Crisis,Gorton Gary,Misunderstanding Financial Crises,2012,BOOK,https://scholar.google.com/,Gorton Misunderstanding Financial Crises,Oxford UP
+52,HIGH,2008 Financial Crisis,Gorton Gary,Slapped by the Invisible Hand: Panic of 2007,2010,BOOK,https://scholar.google.com/,Gorton Slapped Invisible Hand,Oxford UP
+53,MEDIUM,2008 Financial Crisis,Pisani-Ferry Jean,The Euro Crisis and Its Aftermath,2014,BOOK,https://scholar.google.com/,Pisani-Ferry Euro Crisis Aftermath,Oxford UP
+54,MEDIUM,2008 Financial Crisis,Blinder Alan,After the Music Stopped,2013,BOOK,https://scholar.google.com/,Blinder After Music Stopped,Penguin
+55,CRITICAL,2023 Banking Crisis,Acharya Viral,SVB and Beyond: The Banking Stress of 2023 (CEPR),2023,REPORT,https://cepr.org/,Acharya SVB Beyond Banking Stress 2023,CEPR VoxEU book
+56,CRITICAL,2023 Banking Crisis,Jiang Erica,Monetary Tightening and U.S. Bank Fragility in 2023 (JFE),2024,ARTICLE,https://papers.ssrn.com/,Jiang Monetary Tightening Bank Fragility 2023,ScienceDirect or SSRN
+57,HIGH,2023 Banking Crisis,Luck Stephan,Regional bank deposit betas post-SVB,2024,WORKING_PAPER,https://papers.ssrn.com/,Luck Regional bank deposit betas SVB,SSRN or NY Fed
+58,CRITICAL,Heterodox Profit Rate,Shaikh Anwar,"Capitalism: Competition Conflict Crises",2016,BOOK,https://global.oup.com/,Shaikh Capitalism Competition Conflict Crises,Oxford UP; central framework
+59,CRITICAL,Heterodox Profit Rate,Shaikh Anwar,Measuring the Wealth of Nations,1994,BOOK,https://www.cambridge.org/,Shaikh Measuring Wealth Nations,Cambridge UP
+60,CRITICAL,Heterodox Profit Rate,Tsoulfidis Lefteris,Marxian Theory of Competition and Regulating Capital (RRPE),2005,ARTICLE,https://journals.sagepub.com/,Tsoulfidis Marxian Competition Regulating Capital,SAGE Journals
+61,CRITICAL,Heterodox Profit Rate,Vaona Andrea,Empirical Investigation into Long-Run Determinants of Profit Rate (Metroeconomica),2011,ARTICLE,https://onlinelibrary.wiley.com/,Vaona Empirical Long-Run Profit Rate,Wiley Online
+62,CRITICAL,Heterodox Profit Rate,Basu Deepankar,Is There a Tendency for the Rate of Profit to Fall? (RRPE),2013,ARTICLE,https://journals.sagepub.com/,Basu Tendency Rate Profit Fall,SAGE Journals
+63,CRITICAL,Heterodox Profit Rate,Christodoulopoulos G.,Real Competition and Profit Rate Equalisation: Norwegian Economy,2024,ARTICLE,https://www.scienceopen.com/hosted-document?doi=10.13169/worlrevipoliecon.15.2.0291,Christodoulopoulos Real Competition Profit Rate Norway,World Review of Political Economy
+64,HIGH,Heterodox Profit Rate,Shaikh Anwar,Competition and Industrial Rates of Return (conference paper),2007,WORKING_PAPER,https://www.researchgate.net/,Shaikh Competition Industrial Rates Return,New School working papers
+65,HIGH,Heterodox Profit Rate,Shaikh Anwar,Profit Rate Equalization Theory and Evidence,2008,WORKING_PAPER,https://www.researchgate.net/,Shaikh Profit Rate Equalization Theory Evidence,New School/ResearchGate
+66,HIGH,Heterodox Profit Rate,Shaikh Anwar,"Real Bond and Bank Sector Profit Rate Equalization",2004,WORKING_PAPER,https://www.researchgate.net/,Shaikh Real Bond Bank Profit Rate,Key for banking application
+67,MEDIUM,Heterodox Profit Rate,Shaikh Anwar,Laws of Production and Laws of Algebra (RRPE),1974,ARTICLE,https://journals.sagepub.com/,Shaikh Laws Production Laws Algebra,SAGE Journals
+68,MEDIUM,Heterodox Profit Rate,Shaikh Anwar,Competition Finance and Interest Rates,2007,CHAPTER,https://scholar.google.com/,Shaikh Competition Finance Interest Rates,May be chapter in Capitalism (2016)
+69,MEDIUM,Heterodox Profit Rate,Semmler Willi,"Competition Monopoly and Differential Profit Rates",1984,BOOK,https://scholar.google.com/,Semmler Competition Monopoly Profit Rates,Columbia UP; out of print
+70,HIGH,Heterodox Profit Rate,Dumenil Gerard,The Economics of the Profit Rate,1993,BOOK,https://scholar.google.com/,Dumenil Economics Profit Rate,Edward Elgar
+71,MEDIUM,Heterodox Profit Rate,Dumenil Gerard,Capital Resurgent: Roots of the Neoliberal Revolution,2004,BOOK,https://scholar.google.com/,Dumenil Capital Resurgent Neoliberal,Harvard UP
+72,MEDIUM,Heterodox Profit Rate,Tsoulfidis Lefteris,Competing Schools of Economic Thought,2010,BOOK,https://www.springer.com/,Tsoulfidis Competing Schools Economic Thought,Springer
+73,CRITICAL,Banking Competition,Klein Michael,A Theory of the Banking Firm (JMCB),1971,ARTICLE,https://www.jstor.org/,Klein Theory Banking Firm JMCB,JSTOR
+74,CRITICAL,Banking Competition,Monti Mario,"Deposit Credit and Interest Rate Determination",1972,CHAPTER,https://scholar.google.com/,Monti Deposit Credit Interest Rate,Rare chapter
+75,CRITICAL,Banking Competition,Freixas Xavier,Microeconomics of Banking (2nd ed),2008,BOOK,https://mitpress.mit.edu/,Freixas Microeconomics Banking,MIT Press
+76,CRITICAL,Banking Competition,Drechsler Itamar,The Deposits Channel of Monetary Policy (QJE),2017,ARTICLE,https://academic.oup.com/qje,Drechsler Deposits Channel Monetary Policy,Oxford Academic or SSRN
+77,CRITICAL,Banking Competition,Drechsler Itamar,Banking on Deposits: Maturity Transformation without Interest Rate Risk,2021,ARTICLE,https://onlinelibrary.wiley.com/,Drechsler Banking Deposits Maturity Transformation,Wiley Online or SSRN
+78,HIGH,Banking Competition,Salop Steven,Monopolistic Competition with Outside Goods,1979,ARTICLE,https://www.jstor.org/,Salop Monopolistic Competition Outside Goods,JSTOR
+79,HIGH,Banking Competition,Panzar John,Testing for Monopoly Equilibrium (J Ind Econ),1987,ARTICLE,https://www.jstor.org/,Panzar Testing Monopoly Equilibrium,JSTOR or Wiley
+80,HIGH,Banking Competition,Berger Allen,Bank Concentration and Competition (JMCB),2004,ARTICLE,https://www.jstor.org/,Berger Bank Concentration Competition,JSTOR or Wiley
+81,HIGH,Banking Competition,Cetorelli Nicola,Finance as a Barrier to Entry (JoF),2006,ARTICLE,https://onlinelibrary.wiley.com/,Cetorelli Finance Barrier Entry,Wiley Online
+82,MEDIUM,Banking Competition,Degryse Hans,"Distance Lending Relationships and Competition (JoF)",2005,ARTICLE,https://onlinelibrary.wiley.com/,Degryse Distance Lending Competition,Wiley Online
+83,MEDIUM,Banking Competition,Claessens Stijn,What Drives Bank Competition? (JFI),2004,ARTICLE,https://www.sciencedirect.com/,Claessens What Drives Bank Competition,ScienceDirect
+84,MEDIUM,Banking Competition,Allen Franklin,Comparing Financial Systems,2000,BOOK,https://mitpress.mit.edu/,Allen Comparing Financial Systems,MIT Press
+85,HIGH,Banking Competition,Vives Xavier,Competition and Stability in Banking,2016,BOOK,https://press.princeton.edu/,Vives Competition Stability Banking,Princeton UP
+86,CRITICAL,Stress Testing,Farmer J. Doyne,Handbook of Financial Stress Testing,2022,BOOK,https://www.cambridge.org/,Farmer Handbook Financial Stress Testing,Cambridge UP
+87,CRITICAL,Stress Testing,Shapiro Joel,Stress Testing and Bank Lending (RFS),2024,ARTICLE,https://academic.oup.com/rfs,Shapiro Stress Testing Bank Lending RFS,Oxford Academic or SSRN
+88,HIGH,Stress Testing,Hirtle Beverly,Does Supervision Affect Bank Lending? (JLE),2020,ARTICLE,https://www.journals.uchicago.edu/,Hirtle Does Supervision Affect Bank Lending,UChicago Press Journals
+89,HIGH,Stress Testing,Greenlaw David,Stressed Out: Macroprudential Principles for Stress Testing,2012,WORKING_PAPER,https://papers.ssrn.com/,Greenlaw Stressed Out Macroprudential,SSRN or Brookings
+90,HIGH,Stress Testing,Pritsker Matt,Overview of Macroprudential Stress Testing (ARFE),2019,ARTICLE,https://www.annualreviews.org/,Pritsker Overview Macroprudential Stress Testing,Annual Reviews
+91,HIGH,Stress Testing,Acharya Viral,Testing Macroprudential Stress Tests (JME),2014,ARTICLE,https://www.sciencedirect.com/,Acharya Testing Macroprudential Stress Tests,ScienceDirect
+92,CRITICAL,Nonbank Financial Intermediation,FSB,Global Monitoring Report on Nonbank Financial Intermediation 2025,2025,REPORT,https://www.fsb.org/,FSB Global Monitoring NBFI 2025,Free from FSB
+93,CRITICAL,Nonbank Financial Intermediation,Claessens Stijn,Non-bank financial intermediation (CEPR DP 18945),2024,WORKING_PAPER,https://cepr.org/,Claessens Non-bank Financial Intermediation CEPR,May require subscription
+94,MEDIUM,Nonbank Financial Intermediation,CRS,Nonbank Financial Intermediation and Capital Markets Policy,2025,REPORT,https://crsreports.congress.gov/,CRS Nonbank Financial Intermediation Policy,Free from CRS
+95,MEDIUM,Nonbank Financial Intermediation,Mehrling Perry,Bagehot Was a Shadow Banker (INET),2013,WORKING_PAPER,https://www.ineteconomics.org/,Mehrling Bagehot Shadow Banker INET,Free from INET
+96,CRITICAL,Minsky Post-Keynesian,Minsky Hyman,Stabilizing an Unstable Economy,1986,BOOK,https://scholar.google.com/,Minsky Stabilizing Unstable Economy,McGraw-Hill 2008 reprint
+97,HIGH,Minsky Post-Keynesian,Minsky Hyman,John Maynard Keynes,1975,BOOK,https://scholar.google.com/,Minsky John Maynard Keynes,Columbia UP
+98,HIGH,Minsky Post-Keynesian,Minsky Hyman,Can It Happen Again?,1982,BOOK,https://scholar.google.com/,Minsky Can It Happen Again,Routledge reprint
+99,HIGH,Minsky Post-Keynesian,Wray L. Randall,Why Minsky Matters,2016,BOOK,https://press.princeton.edu/,Wray Why Minsky Matters,Princeton UP
+100,MEDIUM,Minsky Post-Keynesian,Wray L. Randall,Making Money Work for Us,2022,BOOK,https://scholar.google.com/,Wray Making Money Work Us,Polity
+101,MEDIUM,Minsky Post-Keynesian,Whalen Charles,Reforming Capitalism for the Common Good,2022,BOOK,https://scholar.google.com/,Whalen Reforming Capitalism Common Good,Routledge
+102,HIGH,Minsky Post-Keynesian,Cihanli Barkin,Empirical Analysis of US Economy Through Lens of FIH (RRPE),2025,ARTICLE,https://journals.sagepub.com/,Cihanli Empirical Analysis FIH 1999-2022,SAGE Journals
+103,HIGH,Minsky Post-Keynesian,Phan Thanh,Statistical Analysis of Minsky's FIH 1945-2023 (JRFM),2024,ARTICLE,https://www.mdpi.com/journal/jrfm,Phan Statistical Analysis Minsky FIH,MDPI open access
+104,MEDIUM,Minsky Post-Keynesian,Nikolaidi Maria,Minsky's financial instability hypothesis (handbook chapter),2023,CHAPTER,https://scholar.google.com/,Nikolaidi Minsky FIH Handbook Chapter,Handbook of Post-Keynesian Economics
+105,MEDIUM,Minsky Post-Keynesian,Goodhart Charles,Minsky's FIH and the Leverage Cycle (FMG/LSE),2020,WORKING_PAPER,https://www.lse.ac.uk/fmg/,Goodhart Minsky FIH Leverage Cycle,Free from LSE FMG
+106,CRITICAL,Critical Macro-Finance,Gabor Daniela,Critical Macro-Finance: A Theoretical Lens,2020,ARTICLE,https://www.cambridge.org/core/journals/finance-and-society/,Gabor Critical Macro-Finance Theoretical Lens,Open access journal
+107,HIGH,Critical Macro-Finance,Gabor Daniela,Banking on Bonds (JCMS),2016,ARTICLE,https://onlinelibrary.wiley.com/,Gabor Banking on Bonds JCMS,Wiley Online
+108,HIGH,Critical Macro-Finance,Gabor Daniela,Institutional Supercycles: Evolutionary Macro-Finance (NPE),2023,ARTICLE,https://www.tandfonline.com/,Gabor Institutional Supercycles Macro-Finance,Taylor & Francis
+109,CRITICAL,Critical Macro-Finance,Mehrling Perry,The New Lombard Street: How the Fed Became Dealer of Last Resort,2011,BOOK,https://press.princeton.edu/,Mehrling New Lombard Street Dealer Last Resort,Princeton UP
+110,HIGH,Critical Macro-Finance,Mehrling Perry,Money and Empire: Kindleberger and the Dollar System,2022,BOOK,https://www.cambridge.org/,Mehrling Money Empire Kindleberger Dollar,Cambridge UP
+111,HIGH,Critical Macro-Finance,Murau Steffen,Shadow Money and the Public Money Supply (RIPE),2017,ARTICLE,https://www.tandfonline.com/,Murau Shadow Money Public Money Supply,Taylor & Francis
+112,MEDIUM,Critical Macro-Finance,Murau Steffen,Rethinking Monetary Sovereignty,2023,ARTICLE,https://www.cambridge.org/,Murau Rethinking Monetary Sovereignty,Cambridge Core
+113,CRITICAL,Institutional Economics,Commons John R.,Institutional Economics,1934,BOOK,https://scholar.google.com/,Commons Institutional Economics,Transaction Publishers reprint
+114,HIGH,Institutional Economics,Commons John R.,Legal Foundations of Capitalism,1924,BOOK,https://scholar.google.com/,Commons Legal Foundations Capitalism,Transaction Publishers reprint
+115,HIGH,Institutional Economics,Hodgson Geoffrey,The Evolution of Institutional Economics,2004,BOOK,https://scholar.google.com/,Hodgson Evolution Institutional Economics,Routledge
+116,MEDIUM,Institutional Economics,Rutherford Malcolm,Institutions in Economics: Old and New Institutionalism,1994,BOOK,https://scholar.google.com/,Rutherford Institutions Economics Institutionalism,Cambridge UP
+117,MEDIUM,Institutional Economics,Tool Marc,"Institutional Economics: Theory Method Policy",1993,BOOK,https://scholar.google.com/,Tool Institutional Economics Theory Method,Kluwer; out of print
+118,CRITICAL,Polanyi and Embeddedness,Polanyi Karl,The Great Transformation,1944,BOOK,https://scholar.google.com/,Polanyi Great Transformation,Beacon Press reprint
+119,HIGH,Polanyi and Embeddedness,Kus Basak,"Crises Institutional Change and Re-Embedding of Finance (SER)",2022,ARTICLE,https://academic.oup.com/ser,Kus Crises Institutional Change Re-Embedding Finance,Oxford Academic
+120,HIGH,Polanyi and Embeddedness,Dale Gareth,Polanyi's Double Movement and Capitalism Today (NPE),2022,ARTICLE,https://www.tandfonline.com/,Dale Polanyi Double Movement Capitalism Today,Taylor & Francis
+121,MEDIUM,Polanyi and Embeddedness,Ugarteche Oscar,Double Movement Embeddedness and Transformation of Financial System,2020,CHAPTER,https://scholar.google.com/,Ugarteche Double Movement Embeddedness Financial System,Book chapter
+122,MEDIUM,Polanyi and Embeddedness,Block Fred,The Power of Market Fundamentalism: Karl Polanyi's Critique,2014,BOOK,https://scholar.google.com/,Block Power Market Fundamentalism Polanyi,Harvard UP
+123,MEDIUM,Polanyi and Embeddedness,Dale Gareth,Karl Polanyi: The Limits of the Market,2010,BOOK,https://scholar.google.com/,Dale Karl Polanyi Limits Market,Polity
+124,MEDIUM,Polanyi and Embeddedness,Feinig Jakob,Beyond Double Movement and Re-regulation: Polanyi Money Politics,2018,ARTICLE,https://scholar.google.com/,Feinig Beyond Double Movement Polanyi Money,Check journal
+125,CRITICAL,Social Studies of Finance,MacKenzie Donald,An Engine Not a Camera: How Financial Models Shape Markets,2006,BOOK,https://mitpress.mit.edu/,MacKenzie Engine Not Camera Financial Models,MIT Press
+126,CRITICAL,Social Studies of Finance,MacKenzie Donald,The Credit Crisis as Problem in Sociology of Knowledge (AJS),2011,ARTICLE,https://www.journals.uchicago.edu/,MacKenzie Credit Crisis Sociology Knowledge,UChicago Journals
+127,HIGH,Social Studies of Finance,MacKenzie Donald,Trading at the Speed of Light,2021,BOOK,https://press.princeton.edu/,MacKenzie Trading Speed Light,Princeton UP
+128,MEDIUM,Social Studies of Finance,MacKenzie Donald,The Formula That Killed Wall Street: Gaussian Copula,2014,ARTICLE,https://journals.sagepub.com/,MacKenzie Formula Killed Wall Street Gaussian Copula,SAGE Journals
+129,CRITICAL,Regulatory Capture,Carpenter Daniel,Preventing Regulatory Capture,2014,BOOK,https://www.cambridge.org/,Carpenter Preventing Regulatory Capture,Cambridge UP
+130,CRITICAL,Regulatory Capture,Kwak James,Cultural Capture and the Financial Crisis,2014,CHAPTER,https://scholar.google.com/,Kwak Cultural Capture Financial Crisis,Chapter in Carpenter & Moss
+131,HIGH,Regulatory Capture,Stigler George,The Theory of Economic Regulation (Bell J Econ),1971,ARTICLE,https://www.jstor.org/,Stigler Theory Economic Regulation,JSTOR
+132,HIGH,Regulatory Capture,Barth James,Guardians of Finance: Making Regulators Work for Us,2012,BOOK,https://mitpress.mit.edu/,Barth Guardians Finance Regulators Work,MIT Press
+133,HIGH,Regulatory Capture,Johnson Simon,13 Bankers: The Wall Street Takeover,2010,BOOK,https://scholar.google.com/,Johnson 13 Bankers Wall Street Takeover,Amazon or library
+134,MEDIUM,Regulatory Capture,Baxter Lawrence,Capture in Financial Regulation: Can We Channel It?,2011,ARTICLE,https://scholarship.law.cornell.edu/,Baxter Capture Financial Regulation Channel,Cornell Law Review
+135,CRITICAL,Econometric Methods,Arellano Manuel,Some Tests of Specification for Panel Data (RES),1991,ARTICLE,https://academic.oup.com/restud,Arellano Tests Specification Panel Data,JSTOR or Oxford
+136,CRITICAL,Econometric Methods,Blundell Richard,Initial Conditions and Moment Restrictions in Dynamic Panel Data Models,1998,ARTICLE,https://www.sciencedirect.com/,Blundell Initial Conditions Moment Restrictions Panel,ScienceDirect
+137,CRITICAL,Econometric Methods,Nickell Stephen,Biases in Dynamic Models with Fixed Effects (Econometrica),1981,ARTICLE,https://www.jstor.org/,Nickell Biases Dynamic Models Fixed Effects,JSTOR
+138,CRITICAL,Econometric Methods,Pedroni Peter,Critical Values for Cointegration Tests in Heterogeneous Panels,1999,ARTICLE,https://onlinelibrary.wiley.com/,Pedroni Critical Values Cointegration Panels,Wiley Online
+139,CRITICAL,Econometric Methods,Pedroni Peter,Panel Cointegration: Asymptotic and Finite Sample Properties,2004,ARTICLE,https://www.cambridge.org/,Pedroni Panel Cointegration Asymptotic,Cambridge Core
+140,CRITICAL,Econometric Methods,Love Inessa,Financial Development and Dynamic Investment Behavior (QREF),2006,ARTICLE,https://www.sciencedirect.com/,Love Financial Development Dynamic Investment,ScienceDirect
+141,HIGH,Econometric Methods,Roodman David,How to do xtabond2: Intro to Difference and System GMM in Stata,2009,ARTICLE,https://journals.sagepub.com/,Roodman xtabond2 Difference System GMM,SAGE Journals
+142,HIGH,Econometric Methods,Roodman David,Note on Theme of Too Many Instruments,2009,ARTICLE,https://onlinelibrary.wiley.com/,Roodman Note Too Many Instruments,Wiley Online
+143,HIGH,Econometric Methods,Windmeijer Frank,Finite Sample Correction for Variance of GMM Estimators,2005,ARTICLE,https://www.sciencedirect.com/,Windmeijer Finite Sample Correction GMM,ScienceDirect
+144,MEDIUM,Econometric Methods,Pesaran M. Hashem,General Diagnostic Tests for Cross-Sectional Dependence in Panels,2004,ARTICLE,https://link.springer.com/,Pesaran Diagnostic Cross-Sectional Dependence,Springer
+145,MEDIUM,Econometric Methods,Im Kyung So,Testing for Unit Roots in Heterogeneous Panels,2003,ARTICLE,https://www.sciencedirect.com/,Im Testing Unit Roots Heterogeneous Panels,ScienceDirect
+146,MEDIUM,Econometric Methods,Levin Andrew,Unit Root Tests in Panel Data,2002,ARTICLE,https://www.sciencedirect.com/,Levin Unit Root Tests Panel Data,ScienceDirect
+147,HIGH,Econometric Methods,Wooldridge Jeffrey,Econometric Analysis of Cross Section and Panel Data (2nd ed),2010,BOOK,https://mitpress.mit.edu/,Wooldridge Econometric Analysis Cross Section Panel,MIT Press
+148,MEDIUM,Econometric Methods,Cameron Colin,Microeconometrics: Methods and Applications,2005,BOOK,https://www.cambridge.org/,Cameron Microeconometrics Methods Applications,Cambridge UP
+149,MEDIUM,Econometric Methods,Hamilton James,Time Series Analysis,1994,BOOK,https://press.princeton.edu/,Hamilton Time Series Analysis,Princeton UP
+150,MEDIUM,Econometric Methods,Lutkepohl Helmut,New Introduction to Multiple Time Series Analysis,2005,BOOK,https://www.springer.com/,Lutkepohl Multiple Time Series Analysis,Springer
+151,CRITICAL,Agent-Based Modeling,Axtell Regulatory Document Library,"ABM in Economics and Finance: Past Present Future (JEL)",2025,ARTICLE,https://www.aeaweb.org/,Axtell ABM Economics Finance JEL,AEA; landmark survey
+152,CRITICAL,Agent-Based Modeling,Poledna Sebastian,Leverage-induced systemic risk under Basle II (JBFIN),2014,ARTICLE,https://www.sciencedirect.com/,Poledna Leverage Systemic Risk Basle II,ScienceDirect
+153,HIGH,Agent-Based Modeling,Poledna Sebastian,Economic Forecasting with an Agent-Based Model (EER),2023,ARTICLE,https://www.sciencedirect.com/,Poledna Economic Forecasting ABM,ScienceDirect
+154,HIGH,Agent-Based Modeling,Klimek Peter,To Bail-Out or to Bail-In? Answers from an ABM (JEDC),2015,ARTICLE,https://www.sciencedirect.com/,Klimek Bail-Out Bail-In ABM,ScienceDirect
+155,HIGH,Agent-Based Modeling,Geanakoplos John,Getting at Systemic Risk via Agent-Based Model Housing Market,2012,ARTICLE,https://www.aeaweb.org/,Geanakoplos Systemic Risk ABM Housing,AEA
+156,HIGH,Agent-Based Modeling,Bookstaber Richard,The End of Theory,2017,BOOK,https://press.princeton.edu/,Bookstaber End of Theory,Princeton UP
+157,MEDIUM,Agent-Based Modeling,Borsos Andras,Agent-based modeling at central banks,2024,WORKING_PAPER,https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2025/agent-based-modeling-at-central-banks-recent-developments-and-new-challenges.pdf,Borsos ABM Central Banks,BoE Staff Working Paper 1122
+158,HIGH,Banking Theory,Diamond Douglas,Financial Intermediation and Delegated Monitoring (RES),1984,ARTICLE,https://academic.oup.com/restud,Diamond Financial Intermediation Delegated Monitoring,JSTOR or Oxford
+159,HIGH,Banking Theory,Ricks Morgan,The Money Problem: Rethinking Financial Regulation,2016,BOOK,https://press.uchicago.edu/,Ricks Money Problem Rethinking Financial Regulation,UChicago Press
+160,HIGH,Banking Theory,Brunnermeier Markus,Macroeconomic Model with Financial Sector (AER),2014,ARTICLE,https://www.aeaweb.org/,Brunnermeier Macroeconomic Model Financial Sector,AEA
+161,HIGH,Banking Theory,Eisenberg Larry,Systemic Risk in Financial Systems (Mgmt Sci),2001,ARTICLE,https://pubsonline.informs.org/,Eisenberg Systemic Risk Financial Systems,INFORMS
+162,MEDIUM,Banking Theory,He Zhiguo,Intermediary Asset Pricing (AER),2013,ARTICLE,https://www.aeaweb.org/,He Intermediary Asset Pricing AER,AEA
+163,MEDIUM,Banking Theory,Adrian Tobias,Liquidity and Leverage (JFI),2010,ARTICLE,https://www.sciencedirect.com/,Adrian Liquidity Leverage JFI,ScienceDirect
+164,HIGH,Financial Regulation,Barr Michael,Financial Regulation: Law and Policy (3rd ed),2021,BOOK,https://scholar.google.com/,Barr Financial Regulation Law Policy,Foundation Press
+165,HIGH,Financial Regulation,Tarullo Daniel,Banking on Basel,2008,BOOK,https://www.piie.com/,Tarullo Banking on Basel,Peterson Institute
+166,HIGH,Financial Regulation,Quarles Randal,Stress Testing: Discussion and Review (Brookings speech),2019,REGULATORY,https://www.federalreserve.gov/newsevents/speeches.htm,Quarles Stress Testing Discussion Review,Fed speeches archive
+167,HIGH,Financial Regulation,Conti-Brown Peter,"Private Finance Public Power",2025,BOOK,https://scholar.google.com/,Conti-Brown Private Finance Public Power,Recently published
+168,HIGH,Financial Regulation,Calomiris Charles,Fragile by Design: Political Origins of Banking Crises,2014,BOOK,https://press.princeton.edu/,Calomiris Fragile Design Banking Crises,Princeton UP
+169,HIGH,Financial Regulation,Aikman David,Would Macroprudential Regulation Have Prevented the Last Crisis? (JEP),2019,ARTICLE,https://www.aeaweb.org/,Aikman Macroprudential Regulation Last Crisis,Free from AEA
+170,MEDIUM,Financial Regulation,Spong Kenneth,"Banking Regulation: Its Purposes Implementation and Effects",2000,BOOK,https://www.kansascityfed.org/,Spong Banking Regulation Purposes Implementation,Free from KC Fed
+171,HIGH,Historical Institutionalism,Pierson Paul,"Politics in Time: History Institutions and Social Analysis",2004,BOOK,https://press.princeton.edu/,Pierson Politics Time History Institutions,Princeton UP
+172,HIGH,Historical Institutionalism,Thelen Kathleen,Historical Institutionalism in Comparative Politics (ARPS),1999,ARTICLE,https://www.annualreviews.org/,Thelen Historical Institutionalism Comparative,Annual Reviews
+173,HIGH,Historical Institutionalism,George Alexander,Case Studies and Theory Development in the Social Sciences,2005,BOOK,https://mitpress.mit.edu/,George Case Studies Theory Development,MIT Press
+174,MEDIUM,Historical Institutionalism,Mahoney James,Explaining Institutional Change,2010,BOOK,https://www.cambridge.org/,Mahoney Explaining Institutional Change,Cambridge UP
+175,MEDIUM,Historical Institutionalism,Streeck Wolfgang,Beyond Continuity: Institutional Change in Advanced Political Economies,2005,BOOK,https://scholar.google.com/,Streeck Beyond Continuity Institutional Change,Oxford UP
+176,MEDIUM,Historical Institutionalism,Hall Peter,Political Science and Three New Institutionalisms,1996,ARTICLE,https://journals.sagepub.com/,Hall Political Science Three Institutionalisms,SAGE Journals
+177,HIGH,Oral History Methodology,Ritchie Donald,Doing Oral History (3rd ed),2014,BOOK,https://scholar.google.com/,Ritchie Doing Oral History,Oxford UP
+178,HIGH,Oral History Methodology,Portelli Alessandro,The Death of Luigi Trastulli and Other Stories,1991,BOOK,https://scholar.google.com/,Portelli Death Luigi Trastulli,SUNY Press
+179,HIGH,Oral History Methodology,Stoler Ann Laura,Along the Archival Grain,2009,BOOK,https://press.princeton.edu/,Stoler Along Archival Grain,Princeton UP
+180,MEDIUM,Oral History Methodology,Ritchie Donald,Oxford Handbook of Oral History,2011,BOOK,https://scholar.google.com/,Ritchie Oxford Handbook Oral History,Oxford UP
+181,MEDIUM,Oral History Methodology,Ritchie Donald,Top Down Bottom Up: Using Oral History to Re-examine Government,2014,ARTICLE,https://scholar.google.com/,Ritchie Top Down Bottom Up Oral History Government,JSTOR or publisher
+182,HIGH,Systemic Risk Networks,Haldane Andrew,Systemic Risk in Banking Ecosystems (Nature),2011,ARTICLE,https://www.nature.com/,Haldane Systemic Risk Banking Ecosystems Nature,Nature.com
+183,MEDIUM,Systemic Risk Networks,Cont Rama,Fire Sales Forensics: Measuring Endogenous Risk,2016,ARTICLE,https://onlinelibrary.wiley.com/,Cont Fire Sales Forensics Endogenous Risk,Wiley Online
+184,MEDIUM,Systemic Risk Networks,Glasserman Paul,Contagion in Financial Networks (JEL),2016,ARTICLE,https://www.aeaweb.org/,Glasserman Contagion Financial Networks JEL,AEA
+185,CRITICAL,System-Wide Stress Testing,ECB,Simulating Dynamic Balance Sheet Reactions to Macroeconomic Stress,2025,REPORT,https://www.ecb.europa.eu/,ECB Simulating Dynamic Balance Sheet Reactions,ECB Macroprudential Bulletin
+186,HIGH,System-Wide Stress Testing,IMF,Growth of Nonbanks Revealing Financial Stability Risks (GFSR April 2025),2025,REPORT,https://www.imf.org/en/Publications/GFSR,IMF Nonbanks Financial Stability Risks GFSR 2025,Free from IMF
+187,CRITICAL,Data Sources,FFIEC,FR Y-9C Instructions and MDRM Data Dictionary,Current,DATA,https://www.ffiec.gov/,FFIEC FR Y-9C Instructions MDRM,Free from FFIEC
+188,CRITICAL,Data Sources,FFIEC,Call Report Instructions,Current,DATA,https://www.ffiec.gov/,FFIEC Call Report Instructions,Free from FFIEC
+189,HIGH,Data Sources,Chicago Fed,BHC Data Variable Lists and Historical Files,Current,DATA,https://www.chicagofed.org/,Chicago Fed BHC Data Variable Lists,Free from Chicago Fed
+190,HIGH,Data Sources,CRSP,Bank-PERMCO to RSSD Identifier Mapping,Current,DATA,https://wrds-www.wharton.upenn.edu/,CRSP Bank-PERMCO RSSD Mapping,Requires WRDS subscription
+191,HIGH,Data Sources,FDIC,Statistics on Depository Institutions (SDI),Current,WEBSITE,https://www.fdic.gov/analysis/sdi/,FDIC Statistics Depository Institutions,Free from FDIC
+192,MEDIUM,Key Regulatory Documents,BPI,Comments on Proposed Changes to Stress Testing Framework,2024,REPORT,https://bpi.com/,BPI Comments Stress Testing Framework,Free from BPI
+193,MEDIUM,Key Regulatory Documents,SIFMA,Comment Letter on Proposed Modifications to GMS Component,2023,REPORT,https://www.sifma.org/,SIFMA Comment Letter GMS Component,Free from SIFMA
+194,HIGH,Miscellaneous Essential,Kindleberger Charles,"Manias Panics and Crashes (7th ed)",2015,BOOK,https://scholar.google.com/,Kindleberger Manias Panics Crashes,Palgrave; Aliber updated
+195,MEDIUM,Miscellaneous Essential,Reinhart Carmen,This Time Is Different: Eight Centuries of Financial Folly,2009,BOOK,https://press.princeton.edu/,Reinhart This Time Different Financial Folly,Princeton UP
+196,HIGH,Miscellaneous Essential,Feldberg Greg,Stress Testing in Time of COVID-19 (BPEA),2020,ARTICLE,https://www.brookings.edu/,Feldberg Stress Testing COVID-19,Free from Brookings
+197,HIGH,Miscellaneous Essential,Roy Saketh,Constrained Dynamism (JFR),2023,ARTICLE,https://academic.oup.com/jfr,Roy Constrained Dynamism JFR,Oxford Academic
+198,MEDIUM,Miscellaneous Essential,Gordy Michael,Procyclicality in Basel II (JFI),2006,ARTICLE,https://www.sciencedirect.com/,Gordy Procyclicality Basel II,ScienceDirect
+199,CRITICAL,Political Histories,Hammond Bray,Banks and Politics in America: Revolution to Civil War,1957,BOOK,https://press.princeton.edu/,Hammond Banks Politics America Revolution Civil War,Princeton UP
+200,CRITICAL,Political Histories,Sprague Oliver M.W.,History of Crises Under the National Banking System,1910,BOOK,https://fraser.stlouisfed.org/,Sprague History Crises National Banking,FRASER digitized NMC
+201,CRITICAL,Political Histories,Pernell Kim,Visions of Financial Order: National Institutions and Financial Regulation,2024,BOOK,https://www.cambridge.org/,Pernell Visions Financial Order,Won 2025 Amsden Award; Cambridge UP
+202,CRITICAL,Political Histories,Conti-Brown Peter,Our Money: Monetary Policy and Transformation of Federal Reserve,2025,BOOK,https://scholar.google.com/,Conti-Brown Our Money Monetary Policy,Recently published
+203,HIGH,Political Histories,Benston George J.,Separation of Commercial and Investment Banking: Glass-Steagall Revisited,1990,BOOK,https://scholar.google.com/,Benston Separation Banking Glass-Steagall,Oxford UP
+204,HIGH,Political Histories,Wilmarth Arthur E.,Taming the Megabanks: Why We Need New Glass-Steagall,2020,BOOK,https://global.oup.com/,Wilmarth Taming Megabanks Glass-Steagall,Oxford UP
+205,HIGH,Political Histories,Skeel David,The New Financial Deal: Dodd-Frank Act,2011,BOOK,https://scholar.google.com/,Skeel New Financial Deal Dodd-Frank,Wiley
+206,HIGH,Political Histories,Markham Jerry W.,"A Financial History of the United States (7 vols)",2002-21,BOOK,https://www.routledge.com/,Markham Financial History United States,Routledge
+207,HIGH,Political Histories,White Eugene N.,"Regulation and Reform of American Banking System 1900-1929",1983,BOOK,https://press.princeton.edu/,White Regulation Reform Banking 1900-1929,Princeton UP
+208,HIGH,Political Histories,Vanatta Sean,Plastic Capitalism: Banks and Making of Consumer Credit,2024,BOOK,https://press.princeton.edu/,Vanatta Plastic Capitalism Consumer Credit,Princeton UP
+209,HIGH,Political Histories,Perino Michael,Hellhound of Wall Street: Pecora's Investigation,2010,BOOK,https://scholar.google.com/,Perino Hellhound Wall Street Pecora,Penguin
+210,MEDIUM,Political Histories,CRS,Glass-Steagall Legislation: Comparative Analysis (R44349),2018,REPORT,https://crsreports.congress.gov/,CRS Glass-Steagall Comparative Analysis,Free from CRS
+211,MEDIUM,Political Histories,CRS,Dodd-Frank: Background and Summary (R41350),2017,REPORT,https://crsreports.congress.gov/,CRS Dodd-Frank Background Summary,Free from CRS
+212,MEDIUM,Political Histories,Fed Board,Brief History of U.S. Regulatory Perimeter,2021,REGULATORY,https://www.federalreserve.gov/,Fed Board History Regulatory Perimeter,Free from Fed
+213,MEDIUM,Political Histories,Spong Kenneth,Bank Holding Company Act: Evolution and Effects,1990,REPORT,https://www.kansascityfed.org/,Spong Bank Holding Company Act,Free from KC Fed
+214,MEDIUM,Political Histories,Carnell Richard Scott,FDICIA and the Road to Reform,1993,ARTICLE,https://scholar.google.com/,Carnell FDICIA Road Reform,Law review databases
+215,MEDIUM,Political Histories,Moe Ronald C.,Bailout of Savings and Loan Industry: FIRREA and Implementation,1990,REPORT,https://crsreports.congress.gov/,Moe Bailout S&L FIRREA,CRS report
+216,MEDIUM,Political Histories,Burns Helen,American Banking Community and New Deal Banking Reforms 1933-1935,1974,BOOK,https://scholar.google.com/,Burns American Banking New Deal Reforms,Greenwood Press; out of print
+217,LOW,Political Histories,Remini Regulatory Document Library V.,Andrew Jackson and the Bank War,1967,BOOK,https://scholar.google.com/,Remini Andrew Jackson Bank War,Amazon used
+218,LOW,Political Histories,Davis Andrew McFarland,Origin of the National Banking System,1910,BOOK,https://fraser.stlouisfed.org/,Davis Origin National Banking System,FRASER NMC
+219,LOW,Political Histories,Rockoff Hugh,The Free Banking Era: A Reexamination,1975,BOOK,https://scholar.google.com/,Rockoff Free Banking Era Reexamination,Out of print; ILL
+220,MEDIUM,Political Histories,Sherman Matthew,Short History of Financial Deregulation in US,2009,REPORT,https://cepr.net/,Sherman Short History Financial Deregulation,Free from CEPR
+221,HIGH,Political Histories,Barr Michael S.,Financial Crisis and Path of Reform (JEP),2012,ARTICLE,https://www.aeaweb.org/,Barr Financial Crisis Path Reform JEP,Free from AEA
+222,MEDIUM,Political Histories,Whitehead Charles K.,Banking Research Rule and Evolving Financial Markets,2011,ARTICLE,https://www.hblr.org/,Whitehead Banking Research Rule Financial Markets,Harvard Business Law Review
+223,CRITICAL,Classical Political Economy,Hilferding Rudolf,Finance Capital: Study of Latest Phase of Capitalist Development,1910/1981,BOOK,https://scholar.google.com/,Hilferding Finance Capital Capitalist Development,1981 Bottomore translation
+224,HIGH,Classical Political Economy,Lapavitsas Costas,Profiting Without Producing: How Finance Exploits Us All,2013,BOOK,https://scholar.google.com/,Lapavitsas Profiting Without Producing Finance,Verso
+225,HIGH,Classical Political Economy,Itoh Makoto,Political Economy of Money and Finance,1999,BOOK,https://scholar.google.com/,Itoh Political Economy Money Finance,With Lapavitsas; Palgrave
+226,HIGH,Classical Political Economy,de Brunhoff Suzanne,Marx on Money,1976,BOOK,https://scholar.google.com/,de Brunhoff Marx on Money,Verso reprint or ILL
+227,HIGH,Classical Political Economy,Schumpeter Joseph,The Theory of Economic Development,1911/1934,BOOK,https://scholar.google.com/,Schumpeter Theory Economic Development,Transaction Publishers reprint
+228,MEDIUM,Classical Political Economy,Schumpeter Joseph,History of Economic Analysis (Part IV on money),1954,BOOK,https://scholar.google.com/,Schumpeter History Economic Analysis Money,Oxford UP; relevant chapters
+229,LOW,Classical Political Economy,Juglar Clement,Des Crises Commerciales et de leur Retour Periodique,1862,BOOK,https://scholar.google.com/,Juglar Crises Commerciales Retour Periodique,French; translated excerpts
+230,MEDIUM,Classical Political Economy,Sweezy Paul,Theory of Capitalist Development (Ch. on finance capital),1942,BOOK,https://scholar.google.com/,Sweezy Theory Capitalist Development Finance,Monthly Review Press
+231,MEDIUM,Classical Political Economy,Ingham Geoffrey,The Nature of Money,2004,BOOK,https://scholar.google.com/,Ingham Nature of Money,Polity
+232,CRITICAL,Endogenous Money Theory,Moore Basil,Horizontalists and Verticalists: Macroeconomics of Credit Money,1988,BOOK,https://www.cambridge.org/,Moore Horizontalists Verticalists Credit Money,Cambridge UP; out of print
+233,CRITICAL,Endogenous Money Theory,Godley Heterodox Economics Library,Monetary Economics: Integrated Approach to Credit Money Income Production Wealth,2007,BOOK,https://scholar.google.com/,Godley Monetary Economics Integrated Approach,With Lavoie; Palgrave
+234,HIGH,Endogenous Money Theory,Lavoie Marc,Post-Keynesian Economics: New Foundations,2014,BOOK,https://scholar.google.com/,Lavoie Post-Keynesian Economics New Foundations,Edward Elgar
+235,HIGH,Endogenous Money Theory,Wray L. Randall,Money and Credit in Capitalist Economies,1990,BOOK,https://scholar.google.com/,Wray Money Credit Capitalist Economies,Edward Elgar; out of print
+236,HIGH,Endogenous Money Theory,Wray L. Randall,Understanding Modern Money,1998,BOOK,https://scholar.google.com/,Wray Understanding Modern Money,Edward Elgar
+237,HIGH,Endogenous Money Theory,Jakab Zoltan,Banks Are Not Intermediaries of Loanable Funds (BoE WP 529),2015,WORKING_PAPER,https://www.bankofengland.co.uk/,Jakab Banks Not Intermediaries Loanable Funds,Free from BoE
+238,MEDIUM,Endogenous Money Theory,Fontana Giuseppe,Money Credit and State: Post-Keynesian Reflections on MMT,2022,ARTICLE,https://scholar.google.com/,Fontana Money Credit State MMT,JPKE or Cambridge Journal
+239,MEDIUM,Endogenous Money Theory,Graziani Augusto,The Monetary Theory of Production,2003,BOOK,https://www.cambridge.org/,Graziani Monetary Theory Production,Cambridge UP; out of print
+240,MEDIUM,Endogenous Money Theory,Werner Richard A.,New Paradigm in Macroeconomics,2005,BOOK,https://scholar.google.com/,Werner New Paradigm Macroeconomics Japan,Palgrave Macmillan
+241,CRITICAL,Sociology of Finance,Callon Michel,The Laws of the Markets,1998,BOOK,https://scholar.google.com/,Callon Laws Markets,Edited volume; out of print
+242,CRITICAL,Sociology of Finance,MacKenzie Donald,Do Economists Make Markets? On Performativity of Economics,2007,BOOK,https://press.princeton.edu/,MacKenzie Do Economists Make Markets Performativity,Princeton UP
+243,CRITICAL,Sociology of Finance,Erturk Ismail,Routledge Companion to Banking Regulation and Reform,2024,BOOK,https://www.routledge.com/,Erturk Routledge Companion Banking Regulation,Co-edited with Gabor
+244,HIGH,Sociology of Finance,Knorr Cetina Karin,The Sociology of Financial Markets,2004,BOOK,https://scholar.google.com/,Knorr Cetina Sociology Financial Markets,Oxford UP
+245,HIGH,Sociology of Finance,Knorr Cetina Karin,Oxford Handbook of Sociology of Finance,2012,BOOK,https://scholar.google.com/,Knorr Cetina Oxford Handbook Sociology Finance,Oxford UP
+246,HIGH,Sociology of Finance,Fourcade Marion,The Ordinal Society,2024,BOOK,https://www.hup.harvard.edu/,Fourcade Ordinal Society,Won 2025 Zelizer Award
+247,HIGH,Sociology of Finance,Beunza Daniel,Taking the Floor: Models and Social Organization of Trading,2019,BOOK,https://press.princeton.edu/,Beunza Taking Floor Models Trading,Princeton UP
+248,HIGH,Sociology of Finance,Zaloom Caitlin,Out of the Pits: Traders and Technology from Chicago to London,2006,BOOK,https://press.uchicago.edu/,Zaloom Out Pits Traders Technology,UChicago Press
+249,MEDIUM,Sociology of Finance,Muniesa Fabian,The Provoked Economy: Economic Reality and Performative Turn,2014,BOOK,https://scholar.google.com/,Muniesa Provoked Economy Performative Turn,Routledge
+250,MEDIUM,Sociology of Finance,Abolafia Mitchel,Making Markets: Opportunism and Restraint on Wall Street,1996,BOOK,https://scholar.google.com/,Abolafia Making Markets Wall Street,Harvard UP
+251,MEDIUM,Sociology of Finance,Power Michael,Organized Uncertainty: World of Risk Management,2007,BOOK,https://scholar.google.com/,Power Organized Uncertainty Risk Management,Oxford UP
+252,MEDIUM,Sociology of Finance,Davis Gerald,Managed by the Markets: How Finance Re-Shaped America,2009,BOOK,https://scholar.google.com/,Davis Managed Markets Finance America,Oxford UP
+253,CRITICAL,Law Money Governance,Pistor Katharina,The Code of Capital: How Law Creates Wealth and Inequality,2019,BOOK,https://press.princeton.edu/,Pistor Code Capital Law Wealth Inequality,Princeton UP
+254,CRITICAL,Law Money Governance,Desan Christine,Making Money: Coin Currency and Coming of Capitalism,2014,BOOK,https://global.oup.com/,Desan Making Money Coin Currency Capitalism,Oxford UP
+255,HIGH,Law Money Governance,Menand Lev,The Fed Unbound: Central Banking in Time of Crisis,2022,BOOK,https://scholar.google.com/,Menand Fed Unbound Central Banking Crisis,Columbia Global Reports
+256,HIGH,Law Money Governance,Desan Christine,Making Capital Democratic: Law of Political Economy,2025,BOOK,https://scholar.google.com/,Desan Making Capital Democratic,Recently published
+257,HIGH,Law Money Governance,Menand Lev,Rebuilding Banking Law: Banks as Public Utilities,2024,ARTICLE,https://www.yalejreg.com/,Menand Ricks Rebuilding Banking Law Public Utilities,Yale Journal on Regulation
+258,HIGH,Law Money Governance,Tucker Paul,Unelected Power: Quest for Legitimacy in Central Banking,2018,BOOK,https://press.princeton.edu/,Tucker Unelected Power Central Banking,Princeton UP
+259,HIGH,Law Money Governance,Thiemann Matthias,Taming Cycles of Finance? Central Banks and Macro-Prudential Shift,2024,BOOK,https://www.cambridge.org/,Thiemann Taming Cycles Finance Macro-Prudential,Cambridge UP
+260,HIGH,Law Money Governance,Hockett Regulatory Document Library,The Finance Franchise (Cornell L Rev),2017,ARTICLE,https://scholarship.law.cornell.edu/,Hockett Omarova Finance Franchise,Cornell Law Review
+261,MEDIUM,Law Money Governance,Schwarcz Steven,Regulating Shadow Banking (RFLR),2012,ARTICLE,https://papers.ssrn.com/,Schwarcz Regulating Shadow Banking,BU Law or SSRN
+262,MEDIUM,Law Money Governance,Ricks Morgan,Money as Infrastructure (Vanderbilt L Rev),2018,ARTICLE,https://scholar.google.com/,Ricks Money Infrastructure Vanderbilt,Vanderbilt Law Review
+263,MEDIUM,Law Money Governance,Pistor Katharina,A Legal Theory of Finance (JCL),2013,ARTICLE,https://papers.ssrn.com/,Pistor Legal Theory Finance,SSRN or Columbia Law
+264,HIGH,Central Bank Independence,Cukierman Alex,"Central Bank Strategy Credibility and Independence",1992,BOOK,https://mitpress.mit.edu/,Cukierman Central Bank Strategy Credibility,MIT Press
+265,HIGH,Central Bank Independence,Adolph Christopher,Bankers Bureaucrats and Central Bank Politics,2013,BOOK,https://www.cambridge.org/,Adolph Bankers Bureaucrats Central Bank,Cambridge UP
+266,HIGH,Central Bank Independence,Jacobs Lawrence,Fed Power: How Finance Wins,2016,BOOK,https://global.oup.com/,Jacobs Fed Power Finance Wins,Oxford UP
+267,HIGH,Central Bank Independence,Alesina Alberto,Central Bank Independence and Macroeconomic Performance,1993,ARTICLE,https://www.jstor.org/,Alesina Central Bank Independence Performance,JSTOR
+268,MEDIUM,Central Bank Independence,Dietsch Peter,Do Central Banks Serve the People?,2018,BOOK,https://scholar.google.com/,Dietsch Central Banks Serve People,Polity
+269,MEDIUM,Central Bank Independence,Binder Sarah,Myth of Independence: How Congress Governs the Federal Reserve,2017,BOOK,https://press.princeton.edu/,Binder Myth Independence Congress Fed,Princeton UP
+270,MEDIUM,Central Bank Independence,Bodea Cristina,Political Economy of Central Banking (Oxford Research Encyclopedia),2023,ARTICLE,https://oxfordre.com/,Bodea Political Economy Central Banking,Oxford Research Encyclopedias
+271,MEDIUM,Central Bank Independence,Balls Ed,Central Bank Independence Revisited,2018,WORKING_PAPER,https://www.hks.harvard.edu/,Balls Central Bank Independence Revisited,Harvard Kennedy School
+272,CRITICAL,Financial Market History,Gorton Gary,Securitized Banking and Run on Repo (JFE),2012,ARTICLE,https://www.sciencedirect.com/,Gorton Securitized Banking Run Repo,With Metrick; ScienceDirect
+273,HIGH,Financial Market History,Garbade Kenneth,Birth of a Market: US Treasury Securities Market WWI to Depression,2012,BOOK,https://mitpress.mit.edu/,Garbade Birth Market Treasury Securities,MIT Press
+274,HIGH,Financial Market History,Garbade Kenneth,After the Accord: Federal Reserve Open Market Operations 1951-1979,2021,BOOK,https://www.cambridge.org/,Garbade After Accord Open Market 1951-1979,Cambridge UP
+275,HIGH,Financial Market History,Keys Benjamin,Did Securitization Lead to Lax Screening? (QJE),2010,ARTICLE,https://academic.oup.com/qje,Keys Securitization Lax Screening QJE,Oxford Academic or SSRN
+276,HIGH,Financial Market History,Duffie Darrell,How Big Banks Fail and What to Do About It,2011,BOOK,https://press.princeton.edu/,Duffie How Big Banks Fail,Princeton UP
+277,MEDIUM,Financial Market History,Garbade Kenneth,Fixed Income Analytics,1996,BOOK,https://mitpress.mit.edu/,Garbade Fixed Income Analytics,MIT Press; technical
+278,MEDIUM,Financial Market History,Stulz Rene,Risk Management and Derivatives,2003,BOOK,https://scholar.google.com/,Stulz Risk Management Derivatives,Thomson
+279,MEDIUM,Financial Market History,Fabozzi Frank,Handbook of Mortgage-Backed Securities (7th ed),2016,BOOK,https://scholar.google.com/,Fabozzi Handbook Mortgage-Backed Securities,Oxford UP
+280,MEDIUM,Financial Market History,Homer Sidney,A History of Interest Rates (4th ed),2005,BOOK,https://scholar.google.com/,Homer History Interest Rates,Wiley
+281,CRITICAL,Banking Consolidation,Stiroh Kevin,Competitive Dynamics of Deregulation: US Banking (JMCB),2003,ARTICLE,https://www.jstor.org/,Stiroh Competitive Dynamics Deregulation Banking,With Strahan; JSTOR
+282,CRITICAL,Banking Consolidation,Jayaratne Jith,Finance-Growth Nexus: Bank Branch Deregulation (QJE),1996,ARTICLE,https://academic.oup.com/qje,Jayaratne Finance-Growth Nexus Deregulation,With Strahan; Oxford
+283,HIGH,Banking Consolidation,Kroszner Randall,What Drives Deregulation? (QJE),1999,ARTICLE,https://academic.oup.com/qje,Kroszner What Drives Deregulation QJE,With Strahan; Oxford
+284,HIGH,Banking Consolidation,Berger Allen,Consolidation of Financial Services Industry (JBF),1999,ARTICLE,https://www.sciencedirect.com/,Berger Consolidation Financial Services,With Demsetz & Strahan
+285,HIGH,Banking Consolidation,Calomiris Charles,U.S. Bank Deregulation in Historical Perspective,2000,BOOK,https://www.cambridge.org/,Calomiris Bank Deregulation Historical,Cambridge UP
+286,HIGH,Banking Consolidation,DeYoung Regulatory Document Library,Mergers and Acquisitions of Financial Institutions (JFI),2009,ARTICLE,https://www.sciencedirect.com/,DeYoung Mergers Acquisitions Financial Institutions,ScienceDirect
+287,MEDIUM,Banking Consolidation,Amel Dean,Trends in Structure of Federally Insured Depository Institutions (FEDS),2004,WORKING_PAPER,https://www.federalreserve.gov/,Amel Trends Structure Insured Depositories,Free from Fed
+288,MEDIUM,Banking Consolidation,Cetorelli Nicola,Banking Market Structure Financial Dependence Growth (JoF),2002,ARTICLE,https://onlinelibrary.wiley.com/,Cetorelli Banking Market Structure Growth,Wiley Online
+289,LOW,Banking Consolidation,Johnson Christian,Interstate Banking and Community Reinvestment Effects,1997,ARTICLE,https://scholar.google.com/,Johnson Interstate Banking Community Reinvestment,Banking law journals
+290,MEDIUM,Banking Consolidation,Brewer Elijah,How Much Did Banks Pay to Become TBTF? (JFI),2009,ARTICLE,https://www.sciencedirect.com/,Brewer Banks Pay TBTF,ScienceDirect
+291,LOW,Banking Consolidation,Adams Regulatory Document Library,Market Power in Outputs and Inputs: Banking,2012,ARTICLE,https://scholar.google.com/,Adams Market Power Outputs Inputs Banking,FEDS working papers
+292,HIGH,Banking Accounting,Plantin Guillaume,Marking to Market: Panacea or Pandora's Box?,2008,ARTICLE,https://www.sciencedirect.com/,Plantin Marking Market Panacea Pandora,With Sapra & Shin; ScienceDirect
+293,MEDIUM,Banking Accounting,Borio Claudio,Fair Value Accounting and Procyclicality (BIS),2008,ARTICLE,https://www.bis.org/,Borio Fair Value Accounting Procyclicality,Free from BIS
+294,MEDIUM,Banking Accounting,Abad Jorge,Breaking the Feedback Loop: Macroprudential Regulation of Sovereign Exposures,2018,WORKING_PAPER,https://papers.ssrn.com/,Abad Breaking Feedback Loop Sovereign Exposures,ECB or SSRN
+295,MEDIUM,Banking Accounting,Beatty Anne,Financial Accounting in Banking Industry: Review (JAE),2005,ARTICLE,https://www.sciencedirect.com/,Beatty Financial Accounting Banking Review,With Liao; ScienceDirect
+296,MEDIUM,Banking Accounting,Cohen Benjamin,Banks and Capital Requirements: Channels of Adjustment,2016,ARTICLE,https://www.sciencedirect.com/,Cohen Banks Capital Requirements Channels,ScienceDirect
+297,HIGH,Fintech Digital Banking,Vives Xavier,FinTech Competition in Lending,2025,WORKING_PAPER,https://papers.ssrn.com/,Vives FinTech Competition Lending Digital Banking,Wharton/SSRN
+298,HIGH,Fintech Digital Banking,Buchak Greg,Fintech Regulatory Arbitrage and Rise of Shadow Banks (JFE),2018,ARTICLE,https://www.sciencedirect.com/,Buchak Fintech Regulatory Arbitrage Shadow Banks,ScienceDirect or SSRN
+299,MEDIUM,Fintech Digital Banking,Erel Isil,FinTech and Household Resilience to Shocks (JFE),2024,ARTICLE,https://www.sciencedirect.com/,Erel FinTech Household Resilience Shocks,ScienceDirect
+300,MEDIUM,Fintech Digital Banking,Brunnermeier Markus,On Equivalence of Private and Public Money (JME),2019,ARTICLE,https://www.sciencedirect.com/,Brunnermeier Equivalence Private Public Money,With Niepelt; ScienceDirect
+301,HIGH,GSE Housing Finance,Acharya Viral,Guaranteed to Fail: Fannie Mae Freddie Mac,2011,BOOK,https://press.princeton.edu/,Acharya Guaranteed Fail Fannie Freddie,Princeton UP
+302,HIGH,GSE Housing Finance,Mian Atif,House of Debt: How They Caused the Great Recession,2014,BOOK,https://press.uchicago.edu/,Mian House of Debt Great Recession,With Sufi; UChicago
+303,HIGH,GSE Housing Finance,Quinn Sarah,American Bonds: How Credit Markets Shaped a Nation,2019,BOOK,https://press.princeton.edu/,Quinn American Bonds Credit Markets,Princeton UP
+304,HIGH,GSE Housing Finance,Levitin Adam J.,Great American Housing Bubble,2020,BOOK,https://www.hup.harvard.edu/,Levitin Great American Housing Bubble,With Wachter; Harvard UP
+305,HIGH,GSE Housing Finance,Mian Atif,Consequences of Mortgage Credit Expansion (QJE),2009,ARTICLE,https://academic.oup.com/qje,Mian Consequences Mortgage Credit Expansion,With Sufi; Oxford Academic
+306,MEDIUM,GSE Housing Finance,Avery Regulatory Document Library,CRA Within Changing Financial Landscape (FEDS),2010,WORKING_PAPER,https://www.federalreserve.gov/,Avery CRA Changing Financial Landscape,Free from Fed
+307,HIGH,Complexity Science Finance,May Regulatory Document Library,Complex Systems: Ecology for Bankers (Nature),2008,ARTICLE,https://www.nature.com/,May Complex Systems Ecology Bankers,Nature.com
+308,HIGH,Complexity Science Finance,Battiston Stefano,Complexity Theory and Financial Regulation (Science),2016,ARTICLE,https://www.science.org/,Battiston Complexity Theory Financial Regulation,Science
+309,HIGH,Complexity Science Finance,Farmer J. Doyne,Complex Systems Approach for Financial Markets (ECJR),2012,ARTICLE,https://link.springer.com/,Farmer Complex Systems Financial Markets,Springer
+310,HIGH,Complexity Science Finance,Schweitzer Frank,Economic Networks: New Challenges (Science),2009,ARTICLE,https://www.science.org/,Schweitzer Economic Networks New Challenges,Science
+311,MEDIUM,Complexity Science Finance,Arthur W. Brian,Complexity and the Economy,2015,BOOK,https://scholar.google.com/,Arthur Complexity Economy,Oxford UP
+312,MEDIUM,Complexity Science Finance,Tesfatsion Leigh,Agent-Based Computational Economics: Constructive Approach,2006,CHAPTER,https://scholar.google.com/,Tesfatsion Agent-Based Computational Economics,Handbook of Computational Economics
+313,MEDIUM,Complexity Science Finance,Lo Andrew,Adaptive Markets: Financial Evolution at Speed of Thought,2017,BOOK,https://press.princeton.edu/,Lo Adaptive Markets Financial Evolution,Princeton UP
+314,HIGH,Community Banking,DeYoung Regulatory Document Library,"Past Present and Probable Future for Community Banks (JFI)",2004,ARTICLE,https://www.sciencedirect.com/,DeYoung Community Banks Past Present Future,ScienceDirect
+315,MEDIUM,Community Banking,Berger Allen,Small Business Credit and Relationship Lending (EJ),2002,ARTICLE,https://onlinelibrary.wiley.com/,Berger Small Business Credit Relationship Lending,Wiley
+316,HIGH,Deposit Insurance History,Calomiris Charles,Origins of Federal Deposit Insurance,1994,CHAPTER,https://scholar.google.com/,Calomiris Origins Federal Deposit Insurance,With White; NBER
+317,HIGH,Deposit Insurance History,Golembe Carter,Deposit Insurance Legislation of 1933 (PSQ),1960,ARTICLE,https://www.jstor.org/,Golembe Deposit Insurance Legislation 1933,JSTOR
+318,HIGH,Deposit Insurance History,Keeley Michael,Deposit Insurance Risk and Market Power in Banking (AER),1990,ARTICLE,https://www.aeaweb.org/,Keeley Deposit Insurance Risk Market Power,JSTOR or AEA
+319,HIGH,Deposit Insurance History,Demirguc-Kunt Asli,Does Deposit Insurance Increase Banking System Stability? (JME),2002,ARTICLE,https://www.sciencedirect.com/,Demirguc-Kunt Deposit Insurance Stability,ScienceDirect
+320,MEDIUM,Deposit Insurance History,Pennacchi George,Deposit Insurance (AEA Handbook),2009,CHAPTER,https://papers.ssrn.com/,Pennacchi Deposit Insurance AEA Handbook,SSRN working paper
+321,MEDIUM,Deposit Insurance History,Demirguc-Kunt Asli,Deposit Insurance Around the World: Design and Implementation,2008,BOOK,https://mitpress.mit.edu/,Demirguc-Kunt Deposit Insurance World Design,With Kane & Laeven; MIT Press
+322,HIGH,Marxian Financial Theory,Harvey David,The Limits to Capital (new edition),2006,BOOK,https://scholar.google.com/,Harvey Limits Capital,Verso; updated edition
+323,HIGH,Marxian Financial Theory,Epstein Gerald,Financialization and the World Economy,2005,BOOK,https://scholar.google.com/,Epstein Financialization World Economy,Edward Elgar
+324,HIGH,Marxian Financial Theory,Krippner Greta,Capitalizing on Crisis: Political Origins of Rise of Finance,2011,BOOK,https://www.hup.harvard.edu/,Krippner Capitalizing Crisis Rise Finance,Harvard UP
+325,HIGH,Marxian Financial Theory,Crotty James,Structural Causes of Global Financial Crisis (CJE),2009,ARTICLE,https://academic.oup.com/cje,Crotty Structural Causes Global Financial Crisis,Oxford Academic
+326,MEDIUM,Marxian Financial Theory,Lapavitsas Costas,Social Relations of Money as Universal Equivalent,2005,ARTICLE,https://www.tandfonline.com/,Lapavitsas Social Relations Money Universal,Taylor & Francis
+327,MEDIUM,Marxian Financial Theory,Norfield Tony,The City: London and Global Power of Finance,2016,BOOK,https://scholar.google.com/,Norfield City London Global Power Finance,Verso
+328,MEDIUM,Marxian Financial Theory,Fine Ben,Marx's Capital (6th ed),2016,BOOK,https://scholar.google.com/,Fine Marx Capital 6th Ed,With Saad-Filho; Pluto Press
+329,MEDIUM,Marxian Financial Theory,Orhangazi Ozgur,Financialisation and Capital Accumulation (CJE),2008,ARTICLE,https://academic.oup.com/cje,Orhangazi Financialisation Capital Accumulation,Oxford Academic
+330,MEDIUM,Marxian Financial Theory,Kliman Andrew,Failure of Capitalist Production: Great Recession,2012,BOOK,https://scholar.google.com/,Kliman Failure Capitalist Production Recession,Pluto Press
+331,LOW,Marxian Financial Theory,Roberts Michael,The Long Depression,2016,BOOK,https://scholar.google.com/,Roberts Long Depression What Happens Next,Haymarket Books
+332,CRITICAL,Foundational Finance Theory,Fisher Irving,Debt-Deflation Theory of Great Depressions (Econometrica),1933,ARTICLE,https://www.jstor.org/,Fisher Debt-Deflation Theory Great Depressions,JSTOR
+333,HIGH,Foundational Finance Theory,Stiglitz Joseph,Credit Rationing in Markets with Imperfect Information (AER),1981,ARTICLE,https://www.aeaweb.org/,Stiglitz Weiss Credit Rationing Imperfect Info,JSTOR or AEA
+334,HIGH,Foundational Finance Theory,Dewatripont Mathias,The Prudential Regulation of Banks,1994,BOOK,https://mitpress.mit.edu/,Dewatripont Tirole Prudential Regulation Banks,MIT Press
+335,HIGH,Foundational Finance Theory,Fama Eugene,Efficient Capital Markets: Review of Theory and Empirical Work (JoF),1970,ARTICLE,https://www.jstor.org/,Fama Efficient Capital Markets Theory,JSTOR
+336,MEDIUM,Foundational Finance Theory,Sharpe William,Capital Asset Prices: Theory of Market Equilibrium (JoF),1964,ARTICLE,https://www.jstor.org/,Sharpe Capital Asset Prices Market Equilibrium,JSTOR
+337,MEDIUM,Foundational Finance Theory,Black Fischer,Pricing of Options and Corporate Liabilities (JPE),1973,ARTICLE,https://www.jstor.org/,Black Scholes Pricing Options Liabilities,With Scholes; JSTOR
+338,MEDIUM,Foundational Finance Theory,Modigliani Franco,Cost of Capital Corporation Finance and Theory of Investment (AER),1958,ARTICLE,https://www.aeaweb.org/,Modigliani Miller Cost Capital Theory Investment,With Miller; JSTOR
+339,MEDIUM,Foundational Finance Theory,Jensen Michael,Theory of Firm: Managerial Behavior Agency Costs Ownership (JFE),1976,ARTICLE,https://www.sciencedirect.com/,Jensen Meckling Theory Firm Agency Costs,With Meckling; ScienceDirect
+340,HIGH,Risk Measurement EVT,McNeil Alexander,Quantitative Risk Management: Concepts Techniques Tools (2nd ed),2015,BOOK,https://press.princeton.edu/,McNeil Quantitative Risk Management,Princeton UP
+341,HIGH,Risk Measurement EVT,Artzner Philippe,Coherent Measures of Risk (MathFin),1999,ARTICLE,https://onlinelibrary.wiley.com/,Artzner Coherent Measures Risk,Wiley Online
+342,HIGH,Risk Measurement EVT,Danielsson Jon,The Illusion of Control: Financial Crises,2022,BOOK,https://scholar.google.com/,Danielsson Illusion Control Financial Crises,Yale UP
+343,MEDIUM,Risk Measurement EVT,Jorion Philippe,Value at Risk: New Benchmark (3rd ed),2007,BOOK,https://scholar.google.com/,Jorion Value at Risk Benchmark,McGraw-Hill
+344,MEDIUM,Risk Measurement EVT,Taleb Nassim Nicholas,The Black Swan (2nd ed),2010,BOOK,https://scholar.google.com/,Taleb Black Swan Highly Improbable,Random House
+345,MEDIUM,Risk Measurement EVT,Danielsson Jon,Model Risk of Risk Models (JFE),2016,ARTICLE,https://www.sciencedirect.com/,Danielsson Model Risk Risk Models,ScienceDirect
+346,MEDIUM,Risk Measurement EVT,Acerbi Carlo,Expected Shortfall: Natural Coherent Alternative to VaR,2002,ARTICLE,https://onlinelibrary.wiley.com/,Acerbi Expected Shortfall Coherent VaR,With Tasche; Wiley
+347,HIGH,Recent 2024-2025 Publications,Davies Dan,The Unaccountability Machine,2024,BOOK,https://scholar.google.com/,Davies Unaccountability Machine Big Systems,Amazon or library
+348,HIGH,Recent 2024-2025 Publications,Downey Stefan,Our Money: Financial Infrastructure for Real Economy,2025,BOOK,https://scholar.google.com/,Downey Our Money Financial Infrastructure,Reviewed in NYRB Feb 2026
+349,HIGH,Recent 2024-2025 Publications,Berger Allen,Financial Intermediation Services and Competition Analysis (JFI),2024,ARTICLE,https://www.sciencedirect.com/,Berger Boot Financial Intermediation Competition,ScienceDirect
+350,HIGH,Recent 2024-2025 Publications,IMF,Global Financial Stability Report October 2025,2025,REPORT,https://www.imf.org/en/Publications/GFSR,IMF GFSR October 2025,Free from IMF
+351,MEDIUM,Recent 2024-2025 Publications,Coen Patrick,Rise of the Walking Dead: Zombie Firms (JFE),2024,ARTICLE,https://www.sciencedirect.com/,Coen Walking Dead Zombie Firms,ScienceDirect
+352,MEDIUM,Recent 2024-2025 Publications,Drechsler Itamar,How Monetary Policy Shapes Bank Risk (JoF),2025,ARTICLE,https://papers.ssrn.com/,Drechsler Monetary Policy Bank Risk,SSRN or journal
+353,HIGH,Recent 2024-2025 Publications,Barr Michael S.,Holistic Capital Review and Regulatory Developments,2025,REGULATORY,https://www.federalreserve.gov/newsevents/speeches.htm,Barr Holistic Capital Review Regulatory,Free from Fed speeches
+354,CRITICAL,Regulatory - IMF,IMF,GFSR April 2008,2008,REPORT,https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Global-Financial-Stability-Report-April-2008,IMF GFSR April 2008,Free from IMF; pre-crisis assessment
+355,CRITICAL,Regulatory - IMF,IMF,GFSR October 2008,2008,REPORT,https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Global-Financial-Stability-Report-October-2008,IMF GFSR October 2008,Free from IMF; crisis analysis
+356,CRITICAL,Regulatory - IMF,IMF,GFSR April 2009,2009,REPORT,https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Global-Financial-Stability-Report-April-2009,IMF GFSR April 2009,Free from IMF; crisis response
+357,HIGH,Regulatory - IMF,IMF,GFSR October 2009,2009,REPORT,https://www.imf.org/en/Publications/GFSR,IMF GFSR October 2009,Free from IMF; recovery assessment
+358,HIGH,Regulatory - IMF,IMF,GFSR April 2010,2010,REPORT,https://www.imf.org/en/Publications/GFSR,IMF GFSR April 2010,Free from IMF; Basel III preview
+359,HIGH,Regulatory - Fed,Federal Reserve,SR 99-18 (Assessment of Institution Information Security Programs),Various,REGULATORY,https://www.federalreserve.gov/supervisionreg/srletters.htm,Federal Reserve SR 99-18,Fed SR letter archive
+360,HIGH,Regulatory - Fed,Federal Reserve,SR 12-17 (Consolidated Supervision Framework for Large Financial Institutions),2012,REGULATORY,https://www.federalreserve.gov/supervisionreg/srletters.htm,Federal Reserve SR 12-17,Fed SR letter archive
+361,HIGH,Regulatory - Fed,Federal Reserve,SR 15-18 (Federal Reserve Supervisory Assessment of Capital Planning),2015,REGULATORY,https://www.federalreserve.gov/supervisionreg/srletters.htm,Federal Reserve SR 15-18,Fed SR letter archive
+362,HIGH,Regulatory - Fed,Federal Reserve,SR 15-19 (Federal Reserve Supervisory Assessment),2015,REGULATORY,https://www.federalreserve.gov/supervisionreg/srletters.htm,Federal Reserve SR 15-19,Fed SR letter archive
+363,HIGH,Regulatory - Fed,Federal Reserve,CCAR 2013 Assessment Framework and Results,2013,REGULATORY,https://www.federalreserve.gov/supervisionreg/ccar.htm,Federal Reserve CCAR 2013 Results,FRASER archive
+364,HIGH,Regulatory - Fed,Federal Reserve,CCAR 2014 Assessment Framework and Results,2014,REGULATORY,https://www.federalreserve.gov/supervisionreg/ccar.htm,Federal Reserve CCAR 2014 Results,FRASER archive
+365,HIGH,Regulatory - China,PBoC,China Financial Stability Report 2015 (English),2015,REPORT,https://www.pbc.gov.cn/en/,PBoC China FSR 2015,English version
+366,HIGH,Regulatory - China,PBoC,China Financial Stability Report 2020 (English),2020,REPORT,https://www.pbc.gov.cn/en/,PBoC China FSR 2020,English version
+367,MEDIUM,Regulatory - EBA,EBA,2010 EU-Wide Stress Test Results (First EU-wide),2010,REPORT,https://www.eba.europa.eu/,EBA 2010 EU-Wide Stress Test,First EU-wide stress test
+368,MEDIUM,Regulatory - BoE,Bank of England,Financial Stability Report 2007-2009 Issues,2007-09,REPORT,https://www.bankofengland.co.uk/,BoE FSR 2007-2009,Pre-crisis and crisis era
+369,MEDIUM,Regulatory - ECB,ECB,Financial Stability Report May/December 2008,2008,REPORT,https://www.ecb.europa.eu/,ECB FSR 2008,Crisis era FSRs
+370,MEDIUM,Regulatory - FDIC,FDIC,Quarterly Banking Profile 2008-2015,2008-15,REPORT,https://www.fdic.gov/analysis/quarterly-banking-profile/,FDIC Quarterly Banking Profile 2008-2015,Crisis and recovery era
+371,MEDIUM,Regulatory - FDIC,FDIC,Resolutions Handbook,Current,REPORT,https://www.fdic.gov/,FDIC Resolutions Handbook,Free from FDIC
+372,HIGH,Historical Stress Tests,Federal Reserve,CCAR 2011: Objectives and Overview,2011,REGULATORY,https://www.federalreserve.gov/supervisionreg/ccar-2011.htm,Federal Reserve CCAR 2011,Archive page identified
+373,HIGH,Historical Stress Tests,Federal Reserve,CCAR 2012: Methodology and Results,2012,REGULATORY,https://www.federalreserve.gov/supervisionreg/ccar-2012.htm,Federal Reserve CCAR 2012,Archive page identified
+374,HIGH,Historical Stress Tests,Federal Reserve,CCAR 2015 Results,2015,REGULATORY,https://www.federalreserve.gov/supervisionreg/ccar.htm,Federal Reserve CCAR 2015 Results,Search archive
+375,HIGH,Historical Stress Tests,Federal Reserve,CCAR 2016 Results,2016,REGULATORY,https://www.federalreserve.gov/supervisionreg/ccar.htm,Federal Reserve CCAR 2016 Results,Search archive
+376,HIGH,Historical Stress Tests,Federal Reserve,CCAR 2017 Results,2017,REGULATORY,https://www.federalreserve.gov/supervisionreg/ccar.htm,Federal Reserve CCAR 2017 Results,Search archive
+377,HIGH,Historical Stress Tests,Federal Reserve,CCAR 2018 Results,2018,REGULATORY,https://www.federalreserve.gov/supervisionreg/ccar.htm,Federal Reserve CCAR 2018 Results,Search archive
+378,HIGH,Historical Stress Tests,Federal Reserve,CCAR 2019 Results,2019,REGULATORY,https://www.federalreserve.gov/supervisionreg/ccar.htm,Federal Reserve CCAR 2019 Results,Search archive
+379,HIGH,Historical Stress Tests,Federal Reserve,DFAST 2013: Supervisory Stress Test Results,2013,REGULATORY,https://www.federalreserve.gov/newsevents/press/bcreg/dfast_2013_results_20130314.pdf,Federal Reserve DFAST 2013 Results,PDF found
+380,HIGH,Historical Stress Tests,Federal Reserve,DFAST 2015 Results,2015,REGULATORY,https://www.federalreserve.gov/bankinforeg/stress-tests/2015-Executive-Summary.htm,Federal Reserve DFAST 2015 Results,Found on Fed website
+381,HIGH,Historical Stress Tests,Federal Reserve,DFAST 2016 Results,2016,REGULATORY,https://www.federalreserve.gov/bankinforeg/stress-tests/2016-background-on-dodd-frank-act-stress-testing.htm,Federal Reserve DFAST 2016 Results,Found on Fed website
+382,HIGH,Historical Stress Tests,Federal Reserve,DFAST 2017 Results,2017,REGULATORY,https://www.federalreserve.gov/publications/files/2017-dfast-methodology-results-20170622.pdf,Federal Reserve DFAST 2017 Results,PDF found
+383,HIGH,Historical Stress Tests,Federal Reserve,DFAST 2018 Results,2018,REGULATORY,https://www.federalreserve.gov/supervisionreg/dfa-stress-tests-2022.htm,Federal Reserve DFAST 2018 Results,Found on Fed website
+384,HIGH,Historical Stress Tests,Federal Reserve,DFAST 2019 Results,2019,REGULATORY,https://www.federalreserve.gov/supervisionreg/dfast-archive.htm,Federal Reserve DFAST 2019 Results,Found on archive page
+385,HIGH,Critical Macro-Finance,Mehrling Perry,The Minsky-Kindleberger Connection (Oeconomia),2023,ARTICLE,https://journals.openedition.org/oeconomia/,Mehrling Minsky-Kindleberger Connection Oeconomia,Open access journal
+386,HIGH,Critical Macro-Finance,Mehrling Perry,Where's My Swap Line? Money View of International LOLR,2022,ARTICLE,https://www.degruyter.com/,Mehrling Swap Line Money View International LOLR,Economic History Yearbook
+387,HIGH,Critical Macro-Finance,Mehrling Perry,Payment vs. Funding: Law of Reflux for Today,2023,CHAPTER,https://www.routledge.com/,Mehrling Payment Funding Law Reflux Today,In Hawkins & Negru eds
+388,HIGH,Critical Macro-Finance,Gabor Daniela and Vestergaard Jakob,Towards a Theory of Shadow Money (INET WP),2016,WORKING_PAPER,https://www.ineteconomics.org/,Gabor Vestergaard Theory Shadow Money INET,Free from INET
+389,HIGH,Critical Macro-Finance,Braun Benjamin and Gabor Daniela,Central Banking Shadow Banking and Infrastructural Power,2019,CHAPTER,https://www.routledge.com/,Braun Gabor Central Banking Shadow Banking Power,Routledge Handbook Financialization
+390,MEDIUM,Critical Macro-Finance,Murau Steffen and van 't Klooster Jens,Rethinking Currency Internationalisation: Offshore Money,2025,ARTICLE,https://scholar.google.com/,Murau van't Klooster Currency Internationalisation,Check journal
+391,HIGH,Social Studies of Finance,MacKenzie Donald et al.,The Modes of Performativity: A Meta-Theoretical Review,2025,ARTICLE,https://www.cambridge.org/core/journals/finance-and-society/,MacKenzie Modes Performativity Meta-Theoretical Review,Finance and Society
+392,HIGH,Social Studies of Finance,Coombs Nathan,What Do Stress Tests Test? (BJS),2020,ARTICLE,https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-4446.12739,Coombs What Do Stress Tests Test,British Journal of Sociology
+393,MEDIUM,Social Studies of Finance,Financial models as artefacts (Journal of Cultural Economy),2025,ARTICLE,https://www.tandfonline.com/,Financial Models Artefacts Performativity,Taylor & Francis
+394,HIGH,Polanyi and Embeddedness,Kus Basak,Disembedded: Financial Regulation in the American Political Economy,2024,BOOK,https://scholar.google.com/,Kus Disembedded Financial Regulation American,Polanyian analysis of US finance
+395,MEDIUM,Polanyi and Embeddedness,Re-embedding Polanyi's double movement thesis (Globalizations),2024,ARTICLE,https://www.tandfonline.com/,Re-embedding Polanyi Double Movement Thesis,Globalizations journal
+396,HIGH,Agent-Based Modeling,Pallante et al.,Robust-less-fragile: Systemic Risk and Financial Contagion Macro ABM,2024,ARTICLE,https://www.sciencedirect.com/science/article/abs/pii/S1572308924001372,Pallante Robust-less-fragile Systemic Risk ABM,Journal of Financial Stability
+397,HIGH,Agent-Based Modeling,Caiani et al.,Agent Based-Stock Flow Consistent Macroeconomics: Benchmark Model,2016,ARTICLE,https://www.sciencedirect.com/science/article/abs/pii/S0165188915301020,Caiani AB-SFC Benchmark Model JEDC,Journal of Economic Dynamics Control
+398,HIGH,Agent-Based Modeling,Hommes et al.,CANVAS: Canadian Behavioral Agent-Based Model for Monetary Policy,2025,ARTICLE,https://www.sciencedirect.com/,Hommes CANVAS Canadian ABM Monetary Policy,Journal of Economic Dynamics Control
+399,HIGH,Agent-Based Modeling,Fialkowski et al.,Data-driven Econo-Financial Stress-Testing Framework Supply Chains,2025,WORKING_PAPER,https://arxiv.org/abs/2502.17044,Fialkowski Econo-Financial Stress-Testing Supply Chains,arXiv preprint
+400,CRITICAL,Heterodox Profit Rate,Nikolaidi Maria and Stockhammer Engelbert,Three Decades of Modelling Minsky: What We Have Learned,2017,WORKING_PAPER,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3064093,Nikolaidi Stockhammer Three Decades Modelling Minsky,SSRN
+401,HIGH,Endogenous Money Theory,Caverzasi Eugenio and Godin Antoine,Post-Keynesian SFC Modeling: Survey and New Results,2015,ARTICLE,https://scholar.google.com/,Caverzasi Godin Post-Keynesian SFC Survey,Journal of Economic Surveys
+402,MEDIUM,Banking Competition,Spierdijk Laura and Shaffer Sherrill,Panzar-Rosse Revenue Test and Market Power in Banking,2015,ARTICLE,https://www.sciencedirect.com/,Spierdijk Shaffer Panzar-Rosse Market Power Banking,Journal of Banking & Finance
+403,HIGH,Regulatory - GAO,GAO,Federal Reserve Stress Test Goals (GAO-17-48),2017,REPORT,https://www.gao.gov/products/gao-17-48,GAO Federal Reserve Stress Test Goals,Free from GAO
+404,HIGH,Stress Testing,Stress tests and model monoculture (JFE),2023,ARTICLE,https://www.sciencedirect.com/science/article/abs/pii/S0304405X23002003,Stress Tests Model Monoculture JFE,Journal of Financial Economics
+405,HIGH,System-Wide Stress Testing,ECB,Advancements in Stress-Testing Methodologies: Occasional Paper 348,2025,REPORT,https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op348~6b72fbe3cf.en.pdf,ECB Advancements Stress-Testing Methodologies,Free from ECB
+406,HIGH,Regulatory - IMF,IMF,IMF WP 17-31 Cyber Risk to Financial Stability,2017,WORKING_PAPER,https://www.imf.org/en/Publications/WP,IMF WP 17-31 Cyber Risk Financial Stability,Manual download from IMF
